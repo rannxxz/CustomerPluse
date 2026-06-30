@@ -1,0 +1,1410 @@
+CustomerID,ActualChurn,ChurnProbability,MonthlyCharges,TenureMonths,RiskSegment,CustomerHealthScore,RetentionPriority,RevenueAtRisk,LifecycleStage,RecommendedAction
+4376-KFVRS,0,0.1840474942112202,114.05,72,Low Risk,82,Healthy,0.0,Loyal,Upsell Opportunity
+2754-SDJRD,0,0.8036958524088964,100.15,8,High Risk,20,Immediate Action,1201.8000000000002,New,Assign Customer Success Manager
+9917-KWRBE,0,0.22279854159929982,78.35,41,Low Risk,78,Healthy,0.0,Established,Upsell Opportunity
+0365-GXEZS,0,0.6390936631094825,78.2,18,High Risk,36,Monitor Closely,938.4000000000001,Growing,Launch Retention Campaign
+9385-NXKDA,0,0.10879221247837315,82.65,72,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+4686-UXDML,0,0.8004058064036979,99.85,21,High Risk,20,Immediate Action,1198.1999999999998,Growing,Assign Customer Success Manager
+2227-JRSJX,0,0.6942535640926867,99.15,21,High Risk,31,Monitor Closely,1189.8000000000002,Growing,Launch Retention Campaign
+4830-FAXFM,0,0.10842877203698416,24.1,19,Low Risk,89,Healthy,0.0,Growing,Upsell Opportunity
+1830-IPXVJ,0,0.004367674432966453,19.75,61,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+4690-LLKUA,1,0.5536492400604481,45.05,17,Moderate Risk,45,Nurture,0.0,Growing,Increase Feature Adoption
+5804-HYIEZ,0,0.2955815108179907,106.05,70,Low Risk,70,Healthy,0.0,Loyal,Upsell Opportunity
+2388-LAESQ,0,0.18971215499594019,114.85,72,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+5533-RJFTJ,0,0.37051152308087487,30.2,49,Moderate Risk,63,Nurture,0.0,Loyal,Increase Feature Adoption
+4706-AXVKM,1,0.8496841050028975,84.8,11,High Risk,15,Immediate Action,1017.5999999999999,New,Assign Customer Success Manager
+0997-YTLNY,0,0.07794719920196831,48.8,19,Low Risk,92,Healthy,0.0,Growing,Upsell Opportunity
+7971-HLVXI,0,0.05525229589938618,84.5,72,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+7337-CINUD,0,0.026721361610204823,19.5,8,Low Risk,97,Healthy,0.0,New,Upsell Opportunity
+1379-FRVEB,0,0.42266182178961015,91.0,15,Moderate Risk,58,Nurture,0.0,Growing,Increase Feature Adoption
+4753-PADAS,0,0.5083758521749008,105.7,67,Moderate Risk,49,Nurture,0.0,Loyal,Increase Feature Adoption
+5701-GUXDC,0,0.23311493358754634,35.4,26,Low Risk,77,Healthy,0.0,Established,Upsell Opportunity
+7235-NXZCP,1,0.8899256372454929,74.85,2,High Risk,11,Immediate Action,898.1999999999999,New,Assign Customer Success Manager
+0668-OGMHD,0,0.5622434500210113,28.5,21,Moderate Risk,44,Nurture,0.0,Growing,Increase Feature Adoption
+2812-REYAT,0,0.09541129591771005,20.05,49,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+8779-YIQQA,0,0.034834252012166556,19.8,21,Low Risk,97,Healthy,0.0,Growing,Upsell Opportunity
+9701-CDXHR,0,0.4497816769490433,69.15,51,Moderate Risk,55,Nurture,0.0,Loyal,Increase Feature Adoption
+7130-CTCUS,0,0.46164994206012017,54.55,16,Moderate Risk,54,Nurture,0.0,Growing,Increase Feature Adoption
+1894-IGFSG,1,0.7582645090494735,89.25,22,High Risk,24,Monitor Closely,1071.0,Growing,Launch Retention Campaign
+0871-URUWO,1,0.848248171011043,102.25,13,High Risk,15,Immediate Action,1227.0,Growing,Assign Customer Success Manager
+0057-QBUQH,0,0.015362726918593545,25.1,43,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+9611-CTWIH,1,0.9415986474808152,89.45,3,High Risk,6,Immediate Action,1073.4,New,Assign Customer Success Manager
+8058-DMYRU,0,0.6779915511028495,90.05,54,High Risk,32,Monitor Closely,1080.6,Loyal,Launch Retention Campaign
+5351-QESIO,0,0.37161504036225335,24.2,1,Moderate Risk,63,Nurture,0.0,New,Increase Feature Adoption
+4302-ZYFEL,0,0.01148746090830707,20.55,69,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+6134-KWTBV,0,0.025495787951524483,23.4,62,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+2034-GDRCN,1,0.9486774865467811,90.4,2,High Risk,5,Immediate Action,1084.8000000000002,New,Assign Customer Success Manager
+9544-PYPSJ,0,0.24607741274190964,96.1,62,Low Risk,75,Healthy,0.0,Loyal,Upsell Opportunity
+4208-UFFGW,1,0.6501768651000841,44.95,2,High Risk,35,Monitor Closely,539.4000000000001,New,Launch Retention Campaign
+9537-JALFH,0,0.003716803981015931,19.9,69,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+4415-IJZTP,1,0.9480600164387485,74.5,1,High Risk,5,Immediate Action,894.0,New,Assign Customer Success Manager
+4701-MLJPN,1,0.3862640172180107,55.25,31,Moderate Risk,61,Nurture,0.0,Established,Increase Feature Adoption
+7515-LODFU,0,0.014209045840858296,20.3,69,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4927-WWOOZ,0,0.9617880223872506,91.45,2,High Risk,4,Immediate Action,1097.4,New,Assign Customer Success Manager
+4067-HLYQI,0,0.522684638485466,70.4,33,Moderate Risk,48,Nurture,0.0,Established,Increase Feature Adoption
+6184-DYUOB,0,0.5715921184345706,19.6,3,Moderate Risk,43,Nurture,0.0,New,Increase Feature Adoption
+9209-NWPGU,0,0.13400473400236992,65.4,44,Low Risk,87,Healthy,0.0,Established,Upsell Opportunity
+9851-KIELU,1,0.8022912686676275,110.1,10,High Risk,20,Immediate Action,1321.1999999999998,New,Assign Customer Success Manager
+3199-XGZCY,0,0.8696655542531883,75.25,8,High Risk,13,Immediate Action,903.0,New,Assign Customer Success Manager
+4226-KKDON,0,0.6496176557257018,66.65,8,High Risk,35,Monitor Closely,799.8000000000001,New,Launch Retention Campaign
+1085-LDWAM,0,0.011132867143539801,20.35,69,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+6825-UYPFK,1,0.5915182393104496,75.6,23,Moderate Risk,41,Nurture,0.0,Growing,Increase Feature Adoption
+1767-CJKBA,0,0.02125719940903206,25.1,66,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+7181-BQYBV,1,0.9791025767954981,102.45,1,High Risk,2,Immediate Action,1229.4,New,Assign Customer Success Manager
+0178-CIIKR,0,0.4105330621264567,19.95,3,Moderate Risk,59,Nurture,0.0,New,Increase Feature Adoption
+4256-ZWTZI,0,0.16961250162644792,51.0,5,Low Risk,83,Healthy,0.0,New,Upsell Opportunity
+9537-VHDTA,0,0.2391312824302708,51.2,1,Low Risk,76,Healthy,0.0,New,Upsell Opportunity
+2754-XBHTB,1,0.8011244122978558,77.65,9,High Risk,20,Immediate Action,931.8000000000001,New,Assign Customer Success Manager
+5975-BAICR,0,0.0632686999677507,63.7,36,Low Risk,94,Healthy,0.0,Established,Upsell Opportunity
+3301-VKTGC,0,0.06548099758861507,85.5,68,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+2877-VDUER,0,0.06676025345157931,40.9,35,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+7717-BICXI,0,0.004688319942096868,20.55,60,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+0562-FGDCR,0,0.008277611432372657,74.55,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+3705-PSNGL,1,0.10889726918356203,20.4,45,Low Risk,89,Healthy,0.0,Established,Upsell Opportunity
+0048-LUMLS,0,0.15334347208343782,91.2,37,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+6497-TILVL,0,0.17259879091411376,50.7,7,Low Risk,83,Healthy,0.0,New,Upsell Opportunity
+2108-YKQTY,1,0.6149500935589712,50.7,4,High Risk,39,Monitor Closely,608.4000000000001,New,Launch Retention Campaign
+3658-KIBGF,1,0.7575050064526389,54.9,1,High Risk,24,Monitor Closely,658.8,New,Launch Retention Campaign
+5482-NUPNA,1,0.42482469522838645,60.4,4,Moderate Risk,58,Nurture,0.0,New,Increase Feature Adoption
+7410-KTVFV,1,0.5331526936560368,49.55,18,Moderate Risk,47,Nurture,0.0,Growing,Increase Feature Adoption
+9033-EOXWV,1,0.4360910475629555,74.05,12,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+8821-XNHVZ,1,0.943746592531226,80.05,1,High Risk,6,Immediate Action,960.5999999999999,New,Assign Customer Success Manager
+8224-KDLKN,0,0.005035617459229837,25.0,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4825-FUREZ,0,0.054637764840671586,20.25,42,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+7534-BFESC,1,0.7712510037466167,76.1,24,High Risk,23,Monitor Closely,913.1999999999999,Growing,Launch Retention Campaign
+9138-EFSMO,0,0.14630896038522528,78.95,26,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+4227-OJHAL,0,0.036503315488852446,73.0,68,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+7279-NMVJC,0,0.12288481965095546,19.9,17,Low Risk,88,Healthy,0.0,Growing,Upsell Opportunity
+8591-TKMZH,0,0.04897922637409522,111.1,59,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+9283-LZQOH,1,0.8170881640729345,74.4,13,High Risk,18,Immediate Action,892.8000000000001,Growing,Assign Customer Success Manager
+3594-IVHJZ,0,0.49757744802022214,20.45,2,Moderate Risk,50,Nurture,0.0,New,Increase Feature Adoption
+1945-XISKS,0,0.019315053247568492,19.65,67,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+4359-INNWN,0,0.12014089346649594,20.05,17,Low Risk,88,Healthy,0.0,Growing,Upsell Opportunity
+7649-SIJJF,0,0.06184855778549559,80.1,71,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+9254-RBFON,1,0.494990368819707,98.6,17,Moderate Risk,51,Nurture,0.0,Growing,Increase Feature Adoption
+0970-ETWGE,1,0.9655031624772399,89.55,1,High Risk,3,Immediate Action,1074.6,New,Assign Customer Success Manager
+7762-ONLJY,0,0.07100908415489875,19.7,6,Low Risk,93,Healthy,0.0,New,Upsell Opportunity
+6710-HSJRD,0,0.695201772468101,114.1,61,High Risk,30,Monitor Closely,1369.1999999999998,Loyal,Launch Retention Campaign
+8873-GLDMH,0,0.8582729317088237,73.85,6,High Risk,14,Immediate Action,886.1999999999999,New,Assign Customer Success Manager
+9907-SWKKF,1,0.7481506216710913,25.05,1,High Risk,25,Monitor Closely,300.6,New,Launch Retention Campaign
+4658-HCOHW,1,0.8073073887463136,102.8,21,High Risk,19,Immediate Action,1233.6,Growing,Assign Customer Success Manager
+9330-VOFSZ,0,0.2607260343646777,110.8,60,Low Risk,74,Healthy,0.0,Loyal,Upsell Opportunity
+2860-RANUS,1,0.7479384036143829,85.8,20,High Risk,25,Monitor Closely,1029.6,Growing,Launch Retention Campaign
+6234-PFPXL,0,0.5616607006191391,95.9,22,Moderate Risk,44,Nurture,0.0,Growing,Increase Feature Adoption
+7205-BAIAD,0,0.03940665886438203,20.6,40,Low Risk,96,Healthy,0.0,Established,Upsell Opportunity
+3858-VOBET,1,0.7582614600542024,74.95,23,High Risk,24,Monitor Closely,899.4000000000001,Growing,Launch Retention Campaign
+5103-MHMHY,1,0.29340375802419255,45.95,1,Low Risk,71,Healthy,0.0,New,Upsell Opportunity
+6119-SPUDB,0,0.049515699179487574,38.25,46,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+9389-ACWBI,0,0.46066870242015207,69.95,5,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+3454-JFUBC,0,0.01970918816041426,20.0,68,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+1768-ZAIFU,1,0.8543107345377307,25.2,1,High Risk,15,Immediate Action,302.4,New,Assign Customer Success Manager
+7017-VFULY,0,0.4931340184063933,20.1,2,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+9221-OTIVJ,1,0.8425404286434095,104.85,14,High Risk,16,Immediate Action,1258.1999999999998,Growing,Assign Customer Success Manager
+2482-CZGBB,1,0.7933276346988306,70.0,10,High Risk,21,Monitor Closely,840.0,New,Launch Retention Campaign
+7018-WBJNK,0,0.34366202720134803,78.3,13,Moderate Risk,66,Nurture,0.0,Growing,Increase Feature Adoption
+3331-HQDTW,1,0.6895963514934075,109.8,34,High Risk,31,Monitor Closely,1317.6,Established,Launch Retention Campaign
+4695-VADHF,1,0.6474597751327786,57.45,18,High Risk,35,Monitor Closely,689.4000000000001,Growing,Launch Retention Campaign
+4086-WITJG,0,0.0036222141660740845,19.7,71,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+6297-NOOPG,0,0.3080244406062001,110.5,70,Moderate Risk,69,Nurture,0.0,Loyal,Increase Feature Adoption
+8777-PVYGU,0,0.17134603271913007,64.3,52,Low Risk,83,Healthy,0.0,Loyal,Upsell Opportunity
+4378-MYPGO,0,0.04022606607430837,105.25,68,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+9313-CDOGY,0,0.06495020038016652,19.6,38,Low Risk,94,Healthy,0.0,Established,Upsell Opportunity
+4121-AGSIN,0,0.1025494243435761,24.5,58,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+0432-CAJZV,0,0.8932302431215227,90.7,3,High Risk,11,Immediate Action,1088.4,New,Assign Customer Success Manager
+9097-ZUBYC,0,0.42664820289992117,48.8,14,Moderate Risk,57,Nurture,0.0,Growing,Increase Feature Adoption
+9638-JIQYA,0,0.7766193408112771,24.9,2,High Risk,22,Monitor Closely,298.79999999999995,New,Launch Retention Campaign
+1024-GUALD,1,0.8865786087879459,24.8,1,High Risk,11,Immediate Action,297.6,New,Assign Customer Success Manager
+8024-XNAFQ,0,0.10125875188038358,107.4,72,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+7587-RZNME,1,0.7669074056939005,43.3,3,High Risk,23,Monitor Closely,519.5999999999999,New,Launch Retention Campaign
+1346-UFHAX,0,0.6652658186791978,80.0,13,High Risk,33,Monitor Closely,960.0,Growing,Launch Retention Campaign
+6374-NTQLP,0,0.03518248016313402,104.1,72,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+6625-FLENO,0,0.024584276279174155,20.75,58,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+7375-WMVMT,0,0.13705164626669036,95.5,71,Low Risk,86,Healthy,0.0,Loyal,Upsell Opportunity
+6910-HADCM,1,0.8980759869761694,76.35,1,High Risk,10,Immediate Action,916.1999999999999,New,Assign Customer Success Manager
+7401-JIXNM,0,0.07505195722715466,91.3,54,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+7338-ERIVA,0,0.15069463617735376,45.05,39,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+5376-DEQCP,1,0.9222212064110284,70.6,1,High Risk,8,Immediate Action,847.1999999999999,New,Assign Customer Success Manager
+0909-SELIE,0,0.07138184399766667,80.8,61,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+5419-KLXBN,1,0.6929140965612919,89.15,25,High Risk,31,Monitor Closely,1069.8000000000002,Established,Launch Retention Campaign
+0365-TRTPY,0,0.4118149342315742,91.2,37,Moderate Risk,59,Nurture,0.0,Established,Increase Feature Adoption
+6712-OAWRH,1,0.7825675418450652,91.25,26,High Risk,22,Monitor Closely,1095.0,Established,Launch Retention Campaign
+2428-ZMCTB,0,0.33826658223018763,19.75,10,Moderate Risk,66,Nurture,0.0,New,Increase Feature Adoption
+1963-VAUKV,1,0.45665640540026453,20.4,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+9381-NDKME,1,0.6833724603582438,40.65,24,High Risk,32,Monitor Closely,487.79999999999995,Growing,Launch Retention Campaign
+3729-OWRVL,0,0.2275993931389591,110.35,65,Low Risk,77,Healthy,0.0,Loyal,Upsell Opportunity
+0895-LMRSF,0,0.35546459434532357,64.9,23,Moderate Risk,64,Nurture,0.0,Growing,Increase Feature Adoption
+2676-SSLTO,0,0.09527598146846569,66.15,49,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+8495-PRWFH,0,0.38526635391693087,55.65,42,Moderate Risk,61,Nurture,0.0,Established,Increase Feature Adoption
+9030-QGZNL,0,0.09175201253335782,20.85,8,Low Risk,91,Healthy,0.0,New,Upsell Opportunity
+9972-NKTFD,0,0.23806292509115062,54.65,28,Low Risk,76,Healthy,0.0,Established,Upsell Opportunity
+7998-WNZEM,0,0.03276314041818384,80.6,71,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+0979-PHULV,1,0.7018504432201783,99.45,69,High Risk,30,Monitor Closely,1193.4,Loyal,Launch Retention Campaign
+6445-TNRXS,0,0.0458230894043738,114.7,68,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+9586-JGQKH,0,0.2460743386833167,105.4,64,Low Risk,75,Healthy,0.0,Loyal,Upsell Opportunity
+3966-HRMZA,0,0.8040993035917539,75.05,3,High Risk,20,Immediate Action,900.5999999999999,New,Assign Customer Success Manager
+5498-IBWPI,0,0.022140337660792923,49.4,66,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6823-SIDFQ,0,0.09609073815614665,18.25,28,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+2323-ARSVR,0,0.19880685874883589,111.05,67,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+5468-BPMMO,0,0.22260557368033942,19.6,46,Low Risk,78,Healthy,0.0,Established,Upsell Opportunity
+0486-HECZI,1,0.27810713043630647,96.75,55,Low Risk,72,Healthy,0.0,Loyal,Upsell Opportunity
+2178-PMGCJ,0,0.6324786150400064,69.7,22,High Risk,37,Monitor Closely,836.4000000000001,Growing,Launch Retention Campaign
+4660-IRIBM,0,0.34361592286943743,87.9,18,Moderate Risk,66,Nurture,0.0,Growing,Increase Feature Adoption
+9674-EHPPG,0,0.06157086678974057,40.4,46,Low Risk,94,Healthy,0.0,Established,Upsell Opportunity
+5606-AMZBO,0,0.8123807213461384,78.15,10,High Risk,19,Immediate Action,937.8000000000001,New,Assign Customer Success Manager
+0665-XHDJU,0,0.3573918079710005,99.4,72,Moderate Risk,64,Nurture,0.0,Loyal,Increase Feature Adoption
+5402-HTOTQ,0,0.533374634266322,55.3,16,Moderate Risk,47,Nurture,0.0,Growing,Increase Feature Adoption
+8258-GSTJK,1,0.8979613368086312,77.0,3,High Risk,10,Immediate Action,924.0,New,Assign Customer Success Manager
+3787-TRIAL,0,0.31012724916959,26.05,21,Moderate Risk,69,Nurture,0.0,Growing,Increase Feature Adoption
+6175-IRFIT,0,0.7673820217103346,78.75,5,High Risk,23,Monitor Closely,945.0,New,Launch Retention Campaign
+6317-YPKDH,1,0.7318362606041549,29.95,1,High Risk,27,Monitor Closely,359.4,New,Launch Retention Campaign
+5692-FPTAH,1,0.748089998434335,45.4,1,High Risk,25,Monitor Closely,544.8,New,Launch Retention Campaign
+5373-SFODM,1,0.7467040415142738,85.25,36,High Risk,25,Monitor Closely,1023.0,Established,Launch Retention Campaign
+0868-VJRDR,0,0.15612752633327048,104.05,64,Low Risk,84,Healthy,0.0,Loyal,Upsell Opportunity
+4079-VTGLK,0,0.30269314501872013,74.85,30,Moderate Risk,70,Nurture,0.0,Established,Increase Feature Adoption
+1166-PQLGG,0,0.003315749685751322,19.55,72,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+5296-BFCYD,0,0.009465557499871715,20.1,46,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+6568-POCUI,0,0.2541991805472552,95.2,45,Low Risk,75,Healthy,0.0,Established,Upsell Opportunity
+2839-RFSQE,1,0.4275703398164105,20.65,2,Moderate Risk,57,Nurture,0.0,New,Increase Feature Adoption
+2188-SXWVT,0,0.09808699601176525,55.0,34,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+8849-GYOKR,1,0.3707463157286307,106.55,54,Moderate Risk,63,Nurture,0.0,Loyal,Increase Feature Adoption
+3623-FQBOX,0,0.2824969914852671,19.95,21,Low Risk,72,Healthy,0.0,Growing,Upsell Opportunity
+2649-HWLYB,0,0.051967456791026684,76.15,65,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+0599-XNYDO,0,0.6497561191804369,69.8,20,High Risk,35,Monitor Closely,837.5999999999999,Growing,Launch Retention Campaign
+2514-GINMM,1,0.9487826451641158,79.5,1,High Risk,5,Immediate Action,954.0,New,Assign Customer Success Manager
+8401-EMUWF,0,0.12493796353963342,69.4,42,Low Risk,88,Healthy,0.0,Established,Upsell Opportunity
+5766-ZJYBB,1,0.4694951291824854,19.4,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+2604-IJPDU,0,0.6602000398988802,96.55,20,High Risk,34,Monitor Closely,1158.6,Growing,Launch Retention Campaign
+2501-XWWTZ,0,0.7544332607478671,70.2,11,High Risk,25,Monitor Closely,842.4000000000001,New,Launch Retention Campaign
+6370-ZVHDV,0,0.03193937568401609,25.3,61,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+3027-YNWZU,0,0.030101884029945666,25.0,64,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+4526-ZJJTM,0,0.6519210920624725,88.4,25,High Risk,35,Monitor Closely,1060.8000000000002,Established,Launch Retention Campaign
+0440-QEXBZ,0,0.3810683834425001,50.15,44,Moderate Risk,62,Nurture,0.0,Established,Increase Feature Adoption
+0330-IVZHA,1,0.8569238790710423,69.95,5,High Risk,14,Immediate Action,839.4000000000001,New,Assign Customer Success Manager
+9758-MFWGD,0,0.04497048985154057,29.9,48,Low Risk,96,Healthy,0.0,Established,Upsell Opportunity
+4229-CZMLL,1,0.8666676973452017,74.9,6,High Risk,13,Immediate Action,898.8000000000001,New,Assign Customer Success Manager
+0742-MOABM,1,0.61342680777791,50.05,4,High Risk,39,Monitor Closely,600.5999999999999,New,Launch Retention Campaign
+4277-BWBML,0,0.003507177979968807,19.95,72,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+5136-GFPMB,0,0.541707317162273,89.4,54,Moderate Risk,46,Nurture,0.0,Loyal,Increase Feature Adoption
+7520-HQWJU,0,0.05643808664536435,67.45,66,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+6304-IJFSQ,1,0.6846969538024162,49.9,3,High Risk,32,Monitor Closely,598.8,New,Launch Retention Campaign
+0297-RBCSG,0,0.23949141766966645,65.35,19,Low Risk,76,Healthy,0.0,Growing,Upsell Opportunity
+6013-BHCAW,0,0.028729996929095492,81.0,61,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+4402-FTBXC,0,0.39043307695736806,89.8,54,Moderate Risk,61,Nurture,0.0,Loyal,Increase Feature Adoption
+1471-GIQKQ,0,0.7483521307585072,49.95,1,High Risk,25,Monitor Closely,599.4000000000001,New,Launch Retention Campaign
+4283-FUTGF,1,0.7869723349211563,79.85,19,High Risk,21,Monitor Closely,958.1999999999999,Growing,Launch Retention Campaign
+9548-LERKT,0,0.06247770432317405,19.75,24,Low Risk,94,Healthy,0.0,Growing,Upsell Opportunity
+8059-UDZFY,0,0.3562038504029462,105.35,33,Moderate Risk,64,Nurture,0.0,Established,Increase Feature Adoption
+0410-IPFTY,0,0.6692548642037256,83.85,31,High Risk,33,Monitor Closely,1006.1999999999999,Established,Launch Retention Campaign
+2478-EEWWM,0,0.6338142159042355,44.3,59,High Risk,37,Monitor Closely,531.5999999999999,Loyal,Launch Retention Campaign
+4619-EVPHY,0,0.6105990673979447,91.0,20,High Risk,39,Monitor Closely,1092.0,Growing,Launch Retention Campaign
+2277-DJJDL,0,0.7595890723791178,99.0,60,High Risk,24,Monitor Closely,1188.0,Loyal,Launch Retention Campaign
+2911-WDXMV,0,0.3265526698566822,80.55,18,Moderate Risk,67,Nurture,0.0,Growing,Increase Feature Adoption
+3639-XJHKQ,0,0.09905237622261036,60.6,19,Low Risk,90,Healthy,0.0,Growing,Upsell Opportunity
+8173-RXAYP,0,0.013016588669285381,19.7,24,Low Risk,99,Healthy,0.0,Growing,Upsell Opportunity
+4537-CIBHB,0,0.058488277227682774,20.25,9,Low Risk,94,Healthy,0.0,New,Upsell Opportunity
+5442-BXVND,0,0.06917028597394792,24.25,33,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+2308-STERM,0,0.3748862574134478,19.4,2,Moderate Risk,63,Nurture,0.0,New,Increase Feature Adoption
+7159-NOKYQ,0,0.3109631275336415,93.15,67,Moderate Risk,69,Nurture,0.0,Loyal,Increase Feature Adoption
+6075-QMNRR,0,0.2069914891450927,49.75,52,Low Risk,79,Healthy,0.0,Loyal,Upsell Opportunity
+3694-GLTJM,0,0.46939545677824357,19.65,5,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+9629-NHXFW,0,0.23988697288372812,19.4,1,Low Risk,76,Healthy,0.0,New,Upsell Opportunity
+7167-PCEYD,0,0.02013233384951428,19.8,67,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+2748-MYRVK,1,0.3656186273548021,99.9,63,Moderate Risk,63,Nurture,0.0,Loyal,Increase Feature Adoption
+4223-WOZCM,0,0.6251850023239548,49.95,2,High Risk,37,Monitor Closely,599.4000000000001,New,Launch Retention Campaign
+6946-LMSQS,1,0.6576257887680538,89.05,25,High Risk,34,Monitor Closely,1068.6,Established,Launch Retention Campaign
+5469-NUJUR,0,0.07313285772073203,19.95,19,Low Risk,93,Healthy,0.0,Growing,Upsell Opportunity
+6388-TABGU,0,0.054064912543474786,56.15,62,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+1261-FWTTE,0,0.6344301839248443,34.65,23,High Risk,37,Monitor Closely,415.79999999999995,Growing,Launch Retention Campaign
+8590-YFFQO,0,0.02301569819097906,64.95,70,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+0082-OQIQY,0,0.7522772446893884,94.2,29,High Risk,25,Monitor Closely,1130.4,Established,Launch Retention Campaign
+9465-RWMXL,1,0.791591126379705,78.9,32,High Risk,21,Monitor Closely,946.8000000000001,Established,Launch Retention Campaign
+2930-UOTMB,1,0.24644354946304828,65.25,31,Low Risk,75,Healthy,0.0,Established,Upsell Opportunity
+9128-CPXKI,0,0.21148426341001567,95.8,59,Low Risk,79,Healthy,0.0,Loyal,Upsell Opportunity
+0484-FFVBJ,0,0.32589052700371607,64.85,32,Moderate Risk,67,Nurture,0.0,Established,Increase Feature Adoption
+1100-DDVRV,0,0.755855768041889,49.8,17,High Risk,24,Monitor Closely,597.5999999999999,Growing,Launch Retention Campaign
+9313-QOLTZ,0,0.19625361152823678,20.9,26,Low Risk,80,Healthy,0.0,Established,Upsell Opportunity
+3338-CVVEH,0,0.8660795767294425,94.55,12,High Risk,13,Immediate Action,1134.6,New,Assign Customer Success Manager
+1131-SUEKT,0,0.10126693269183926,98.45,61,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+7602-DBTOU,0,0.01732563537015772,19.6,71,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+1385-TQOZW,0,0.4431106009896688,20.45,9,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+6892-XPFPU,1,0.8812155542061737,104.25,24,High Risk,12,Immediate Action,1251.0,Growing,Assign Customer Success Manager
+4115-NZRKS,0,0.9144122148223282,89.15,7,High Risk,9,Immediate Action,1069.8000000000002,New,Assign Customer Success Manager
+5514-YQENT,0,0.04837592406984065,111.15,41,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+6319-IEJWJ,1,0.8537748139043972,90.2,20,High Risk,15,Immediate Action,1082.4,Growing,Assign Customer Success Manager
+8849-AYPTR,0,0.7580294513225575,91.25,33,High Risk,24,Monitor Closely,1095.0,Established,Launch Retention Campaign
+5893-PYOLZ,0,0.07201946978159599,81.8,56,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+7180-PISOG,1,0.9620134295155184,74.5,1,High Risk,4,Immediate Action,894.0,New,Assign Customer Success Manager
+8443-ZRDBZ,1,0.8809022805153244,76.05,4,High Risk,12,Immediate Action,912.5999999999999,New,Assign Customer Success Manager
+9079-YEXQJ,1,0.6065698437266934,111.1,54,High Risk,39,Monitor Closely,1333.1999999999998,Loyal,Launch Retention Campaign
+3780-YVMFA,0,0.428365018580619,68.55,8,Moderate Risk,57,Nurture,0.0,New,Increase Feature Adoption
+6968-MHOMU,0,0.340859410320441,45.0,58,Moderate Risk,66,Nurture,0.0,Loyal,Increase Feature Adoption
+0899-LIIBW,0,0.7979685462553621,100.85,34,High Risk,20,Monitor Closely,1210.1999999999998,Established,Launch Retention Campaign
+3677-IYRBF,1,0.8068563878735268,30.4,2,High Risk,19,Immediate Action,364.79999999999995,New,Assign Customer Success Manager
+8393-DLHGA,1,0.7539188668978737,95.9,25,High Risk,25,Monitor Closely,1150.8000000000002,Established,Launch Retention Campaign
+7691-XVTZH,0,0.24598559506115472,89.95,68,Low Risk,75,Healthy,0.0,Loyal,Upsell Opportunity
+5360-LJCNJ,0,0.2785456317975419,105.15,71,Low Risk,72,Healthy,0.0,Loyal,Upsell Opportunity
+3891-PUQOD,1,0.49880887830312254,59.2,1,Moderate Risk,50,Nurture,0.0,New,Increase Feature Adoption
+0952-KMEEH,1,0.7522647214311283,98.15,13,High Risk,25,Monitor Closely,1177.8000000000002,Growing,Launch Retention Campaign
+4919-IKATY,1,0.8662506319027088,84.5,5,High Risk,13,Immediate Action,1014.0,New,Assign Customer Success Manager
+9746-UGFAC,0,0.1030273559781341,20.85,22,Low Risk,90,Healthy,0.0,Growing,Upsell Opportunity
+9108-EQPNQ,0,0.03634170263945607,26.1,10,Low Risk,96,Healthy,0.0,New,Upsell Opportunity
+0531-ZZJWQ,0,0.7005462582061606,74.0,55,High Risk,30,Monitor Closely,888.0,Loyal,Launch Retention Campaign
+8763-KIAFH,0,0.1534349804728564,20.55,27,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+5863-OOKCL,0,0.36424072647555333,18.85,10,Moderate Risk,64,Nurture,0.0,New,Increase Feature Adoption
+2958-NHPPS,0,0.27364308134195653,20.85,23,Low Risk,73,Healthy,0.0,Growing,Upsell Opportunity
+9530-GRMJG,0,0.03392952048646512,84.1,70,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+1809-DMJHQ,1,0.19409382126226826,46.0,5,Low Risk,81,Healthy,0.0,New,Upsell Opportunity
+0164-XAIRP,0,0.06294657471122583,19.55,24,Low Risk,94,Healthy,0.0,Growing,Upsell Opportunity
+2926-JEJJC,0,0.25810360298418944,20.2,8,Low Risk,74,Healthy,0.0,New,Upsell Opportunity
+1169-WCVAK,0,0.6228350717181619,88.8,19,High Risk,38,Monitor Closely,1065.6,Growing,Launch Retention Campaign
+1217-VASWC,0,0.5038981381175401,100.55,43,Moderate Risk,50,Nurture,0.0,Established,Increase Feature Adoption
+2452-KDRRH,0,0.6395260514385688,101.4,67,High Risk,36,Monitor Closely,1216.8000000000002,Loyal,Launch Retention Campaign
+6402-EJMWF,0,0.6944050012911805,55.3,4,High Risk,31,Monitor Closely,663.5999999999999,New,Launch Retention Campaign
+7663-CUXZB,0,0.24315106805122957,113.75,59,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+4312-KFRXN,0,0.0253194936007694,25.4,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+3011-WQKSZ,0,0.10500514930154438,20.0,19,Low Risk,89,Healthy,0.0,Growing,Upsell Opportunity
+9747-DDZOS,1,0.8690492332964854,73.5,1,High Risk,13,Immediate Action,882.0,New,Assign Customer Success Manager
+2091-MJTFX,1,0.19182887229651702,51.2,30,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+0388-EOPEX,1,0.9023015605688187,74.4,2,High Risk,10,Immediate Action,892.8000000000001,New,Assign Customer Success Manager
+3161-ONRWK,0,0.08218940308568516,65.85,60,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+2587-EKXTS,0,0.7018646362461477,111.5,44,High Risk,30,Monitor Closely,1338.0,Established,Launch Retention Campaign
+9752-ZNQUT,0,0.8096967045248862,48.6,1,High Risk,19,Immediate Action,583.2,New,Assign Customer Success Manager
+9572-WUKSB,0,0.8232436935333213,29.9,3,High Risk,18,Immediate Action,358.79999999999995,New,Assign Customer Success Manager
+3836-FZSDJ,0,0.025370058003421826,24.85,71,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+8805-JNRAZ,0,0.5996040231744977,49.2,2,Moderate Risk,40,Nurture,0.0,New,Increase Feature Adoption
+3069-SSVSN,0,0.5512080336106585,25.85,1,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+8015-IHCGW,0,0.05812304572809093,115.5,72,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+8132-YPVBX,0,0.8001783566062006,85.95,6,High Risk,20,Immediate Action,1031.4,New,Assign Customer Success Manager
+0235-KGSLC,1,0.927169672678017,85.55,1,High Risk,7,Immediate Action,1026.6,New,Assign Customer Success Manager
+1302-UHBDD,0,0.7938172599490616,89.95,20,High Risk,21,Monitor Closely,1079.4,Growing,Launch Retention Campaign
+3722-WPXTK,1,0.966643766011618,88.35,1,High Risk,3,Immediate Action,1060.1999999999998,New,Assign Customer Success Manager
+7531-GQHME,0,0.3153665157880451,20.05,12,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+1335-NTIUC,0,0.7923657837575284,24.95,9,High Risk,21,Monitor Closely,299.4,New,Launch Retention Campaign
+9367-TCUYN,0,0.33154382515801345,20.1,12,Moderate Risk,67,Nurture,0.0,New,Increase Feature Adoption
+1536-HBSWP,0,0.7761159475907712,49.9,1,High Risk,22,Monitor Closely,598.8,New,Launch Retention Campaign
+8573-JGCZW,0,0.15888811453473334,19.65,17,Low Risk,84,Healthy,0.0,Growing,Upsell Opportunity
+2694-CIUMO,0,0.7359279927729462,79.55,12,High Risk,26,Monitor Closely,954.5999999999999,New,Launch Retention Campaign
+2027-FECZV,1,0.8925558669393951,106.7,12,High Risk,11,Immediate Action,1280.4,New,Assign Customer Success Manager
+9103-TCIHJ,1,0.4325246728090108,55.7,15,Moderate Risk,57,Nurture,0.0,Growing,Increase Feature Adoption
+1545-JFUML,0,0.23969939276295232,99.0,71,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+0524-IAVZO,1,0.8177420048413344,85.0,30,High Risk,18,Immediate Action,1020.0,Established,Assign Customer Success Manager
+5519-TEEUH,0,0.022720384387245243,20.15,33,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+6654-QGBZZ,0,0.46025674011450657,19.9,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+2294-DMMUS,0,0.16809376223261005,70.45,62,Low Risk,83,Healthy,0.0,Loyal,Upsell Opportunity
+0017-IUDMW,0,0.04004089008610198,116.8,72,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+5018-LXQQG,0,0.07868429733992623,66.3,30,Low Risk,92,Healthy,0.0,Established,Upsell Opportunity
+5808-TOTXO,0,0.07517392018951455,20.55,3,Low Risk,92,Healthy,0.0,New,Upsell Opportunity
+1174-FGIFN,0,0.24397059137559418,90.45,28,Low Risk,76,Healthy,0.0,Established,Upsell Opportunity
+0730-KOAVE,0,0.6555715944329757,94.3,30,High Risk,34,Monitor Closely,1131.6,Established,Launch Retention Campaign
+1218-VKFPE,1,0.4001199308894062,19.0,12,Moderate Risk,60,Nurture,0.0,New,Increase Feature Adoption
+5313-FPXWG,0,0.09608527315781538,24.6,51,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+2834-JKOOW,0,0.17351241684524735,45.9,15,Low Risk,83,Healthy,0.0,Growing,Upsell Opportunity
+9430-NKQLY,0,0.006809462580285943,25.1,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+0363-QJVFX,1,0.6364498277060543,108.15,32,High Risk,36,Monitor Closely,1297.8000000000002,Established,Launch Retention Campaign
+1658-TJVOA,0,0.7860984690138859,74.1,6,High Risk,21,Monitor Closely,889.1999999999999,New,Launch Retention Campaign
+6685-GBWJZ,0,0.07490357384919975,70.8,63,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+6328-ZPBGN,1,0.8859162254875582,95.15,11,High Risk,11,Immediate Action,1141.8000000000002,New,Assign Customer Success Manager
+4003-FUSHP,0,0.454174218392614,61.55,19,Moderate Risk,55,Nurture,0.0,Growing,Increase Feature Adoption
+7690-KPNCU,0,0.1956321419623624,73.05,64,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+2969-WGHQO,0,0.14072350356629146,69.45,7,Low Risk,86,Healthy,0.0,New,Upsell Opportunity
+1855-CFULU,0,0.3819361483660405,20.05,4,Moderate Risk,62,Nurture,0.0,New,Increase Feature Adoption
+9788-YTFGE,0,0.4364704664293401,19.95,7,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+8266-VBFQL,0,0.8635416024681117,90.4,4,High Risk,14,Immediate Action,1084.8000000000002,New,Assign Customer Success Manager
+2325-NBPZG,0,0.8200531081109877,74.55,3,High Risk,18,Immediate Action,894.5999999999999,New,Assign Customer Success Manager
+9906-NHHVC,0,0.12332832684317675,53.5,65,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+2541-YGPKE,0,0.028231946219398854,63.7,42,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+5049-MUBWG,0,0.17250415740151526,75.0,26,Low Risk,83,Healthy,0.0,Established,Upsell Opportunity
+2332-TODQS,0,0.07603447728389588,25.05,48,Low Risk,92,Healthy,0.0,Established,Upsell Opportunity
+4419-UJMUS,0,0.0908249820096321,99.35,69,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+2233-TXSIU,0,0.0962404292698126,44.45,17,Low Risk,90,Healthy,0.0,Growing,Upsell Opportunity
+6770-XUAGN,1,0.6895495502131435,21.0,1,High Risk,31,Monitor Closely,252.0,New,Launch Retention Campaign
+2919-HBCJO,1,0.7416947554518611,76.65,4,High Risk,26,Monitor Closely,919.8000000000001,New,Launch Retention Campaign
+9508-ILZDG,0,0.694544187624485,96.35,34,High Risk,31,Monitor Closely,1156.1999999999998,Established,Launch Retention Campaign
+5442-BHQNG,0,0.8603327277006044,70.35,2,High Risk,14,Immediate Action,844.1999999999999,New,Assign Customer Success Manager
+7250-EQKIY,1,0.3738650481770705,50.45,1,Moderate Risk,63,Nurture,0.0,New,Increase Feature Adoption
+6838-HVLXG,0,0.3192576025279395,20.3,12,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+9767-FFLEM,0,0.5389250496731474,69.5,38,Moderate Risk,46,Nurture,0.0,Established,Increase Feature Adoption
+2245-ADZFJ,0,0.15280106624286122,80.55,31,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+1150-WFARN,1,0.22378125275069294,108.75,67,Low Risk,78,Healthy,0.0,Loyal,Upsell Opportunity
+9054-FOWNV,0,0.5550715393140333,88.75,22,Moderate Risk,44,Nurture,0.0,Growing,Increase Feature Adoption
+7997-EASSD,0,0.3019042802665044,81.2,63,Moderate Risk,70,Nurture,0.0,Loyal,Increase Feature Adoption
+7560-QJAVJ,0,0.03505069902467561,79.6,70,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+2668-TZSPS,0,0.46191779748514594,20.45,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+9139-WQQDY,1,0.4722969309383958,100.45,49,Moderate Risk,53,Nurture,0.0,Loyal,Increase Feature Adoption
+6726-NNFWD,0,0.12505089548889092,89.45,71,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+9330-DHBFL,0,0.15785039499956466,66.25,23,Low Risk,84,Healthy,0.0,Growing,Upsell Opportunity
+5727-MYATE,0,0.017428915581218122,90.8,72,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+2824-DXNKN,0,0.015781958961102672,71.45,72,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6166-ILMNY,1,0.8027959279931967,69.75,2,High Risk,20,Immediate Action,837.0,New,Assign Customer Success Manager
+5236-XMZJY,0,0.17285654669949402,59.65,42,Low Risk,83,Healthy,0.0,Established,Upsell Opportunity
+1709-EJDOX,0,0.006618183885748403,19.75,47,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+4962-CHQPW,0,0.019731681955016154,19.85,29,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+0301-FIDRB,0,0.017402671770680913,63.8,72,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+1820-TQVEV,1,0.9285089152293707,69.55,1,High Risk,7,Immediate Action,834.5999999999999,New,Assign Customer Success Manager
+9115-YQHGA,0,0.3249528437420511,51.1,40,Moderate Risk,68,Nurture,0.0,Established,Increase Feature Adoption
+1541-ETJZO,1,0.7236167291875812,62.05,1,High Risk,28,Monitor Closely,744.5999999999999,New,Launch Retention Campaign
+6230-BSUXY,1,0.9515401500728325,85.0,1,High Risk,5,Immediate Action,1020.0,New,Assign Customer Success Manager
+6797-LNAQX,1,0.23814676564570783,98.3,70,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+9588-YRFHY,0,0.03179183223843367,19.9,49,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+1092-GANHU,1,0.696496222118637,76.65,17,High Risk,30,Monitor Closely,919.8000000000001,Growing,Launch Retention Campaign
+5951-AOFIH,0,0.3773809603816737,66.4,33,Moderate Risk,62,Nurture,0.0,Established,Increase Feature Adoption
+7029-RPUAV,1,0.8717090233725776,100.45,17,High Risk,13,Immediate Action,1205.4,Growing,Assign Customer Success Manager
+4700-UBQMV,0,0.13465775416575498,75.9,21,Low Risk,87,Healthy,0.0,Growing,Upsell Opportunity
+3594-UVONA,1,0.21967552753950892,85.95,35,Low Risk,78,Healthy,0.0,Established,Upsell Opportunity
+7750-EYXWZ,0,0.513018730022886,60.65,12,Moderate Risk,49,Nurture,0.0,New,Increase Feature Adoption
+7054-ENNGU,0,0.5353251250459623,50.85,9,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+0402-OAMEN,0,0.004999728512405769,24.45,72,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+2195-VVRJF,0,0.5553573283213649,59.1,18,Moderate Risk,44,Nurture,0.0,Growing,Increase Feature Adoption
+8819-ZBYNA,0,0.2145235291361165,109.1,58,Low Risk,79,Healthy,0.0,Loyal,Upsell Opportunity
+7748-UMTRK,0,0.4194942772846844,101.3,30,Moderate Risk,58,Nurture,0.0,Established,Increase Feature Adoption
+1741-WTPON,0,0.03711797006480012,115.85,56,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+7209-JCUDS,1,0.8460115613561503,94.9,10,High Risk,15,Immediate Action,1138.8000000000002,New,Assign Customer Success Manager
+2485-ITVKB,1,0.9058313190800406,35.1,2,High Risk,9,Immediate Action,421.20000000000005,New,Assign Customer Success Manager
+9648-BCHKM,0,0.02771737735845446,24.65,18,Low Risk,97,Healthy,0.0,Growing,Upsell Opportunity
+0743-HRVFF,0,0.11281938907300804,56.15,51,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+2522-AHJXR,0,0.6176291354323806,109.45,60,High Risk,38,Monitor Closely,1313.4,Loyal,Launch Retention Campaign
+9143-CANJF,0,0.0937642580809693,55.15,24,Low Risk,91,Healthy,0.0,Growing,Upsell Opportunity
+1444-VVSGW,1,0.29134461205621526,115.65,70,Low Risk,71,Healthy,0.0,Loyal,Upsell Opportunity
+6898-MDLZW,0,0.47338982181147216,53.75,12,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+0074-HDKDG,0,0.18273317760783403,61.6,25,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+3982-JGSFD,0,0.10135407389282637,20.35,36,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+7928-VJYAB,0,0.55506538683736,90.6,11,Moderate Risk,44,Nurture,0.0,New,Increase Feature Adoption
+1522-VVDMG,1,0.8616781976009971,89.75,7,High Risk,14,Immediate Action,1077.0,New,Assign Customer Success Manager
+2665-NPTGL,0,0.8455307307629993,98.1,26,High Risk,15,Immediate Action,1177.1999999999998,Established,Assign Customer Success Manager
+8728-SKJLR,0,0.5310732609406212,74.25,41,Moderate Risk,47,Nurture,0.0,Established,Increase Feature Adoption
+7733-UDMTP,0,0.557628477223168,55.0,57,Moderate Risk,44,Nurture,0.0,Loyal,Increase Feature Adoption
+0431-APWVY,1,0.5676565389959503,90.1,28,Moderate Risk,43,Nurture,0.0,Established,Increase Feature Adoption
+5081-NWSUP,0,0.25867888749073803,64.9,10,Low Risk,74,Healthy,0.0,New,Upsell Opportunity
+2746-DIJLO,0,0.18815853895579884,56.3,41,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+7277-OZCGZ,0,0.6464446853172257,89.05,22,High Risk,35,Monitor Closely,1068.6,Growing,Launch Retention Campaign
+5236-PERKL,1,0.19133753877472628,112.95,57,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+2788-CJQAQ,0,0.13416271528659948,19.45,13,Low Risk,87,Healthy,0.0,Growing,Upsell Opportunity
+3096-WPXBT,0,0.10114337858585241,100.7,61,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+9962-BFPDU,0,0.18374244115005106,20.05,1,Low Risk,82,Healthy,0.0,New,Upsell Opportunity
+2892-GESUL,0,0.016247800862876985,19.35,18,Low Risk,98,Healthy,0.0,Growing,Upsell Opportunity
+9741-YLNTD,0,0.8489183068750166,87.95,6,High Risk,15,Immediate Action,1055.4,New,Assign Customer Success Manager
+1205-WNWPJ,1,0.6080134547734515,59.5,7,High Risk,39,Monitor Closely,714.0,New,Launch Retention Campaign
+3173-NVMPX,0,0.31193208517655857,55.3,9,Moderate Risk,69,Nurture,0.0,New,Increase Feature Adoption
+9661-MHUMO,1,0.4061758630856355,49.25,1,Moderate Risk,59,Nurture,0.0,New,Increase Feature Adoption
+6000-APYLU,1,0.8540268974554861,80.8,9,High Risk,15,Immediate Action,969.5999999999999,New,Assign Customer Success Manager
+0048-PIHNL,0,0.07156333873981155,20.45,49,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+9420-LOJKX,1,0.3172746797039391,99.1,15,Moderate Risk,68,Nurture,0.0,Growing,Increase Feature Adoption
+7061-OVMIM,0,0.11260556716375478,19.55,30,Low Risk,89,Healthy,0.0,Established,Upsell Opportunity
+5671-RQRLP,0,0.16869832579745642,75.65,70,Low Risk,83,Healthy,0.0,Loyal,Upsell Opportunity
+5129-JLPIS,0,0.653580617927676,105.5,25,High Risk,35,Monitor Closely,1266.0,Established,Launch Retention Campaign
+5170-PTRKA,0,0.15381890584899552,35.8,49,Low Risk,85,Healthy,0.0,Loyal,Upsell Opportunity
+4819-HJPIW,0,0.48835202737911604,25.15,18,Moderate Risk,51,Nurture,0.0,Growing,Increase Feature Adoption
+8780-RSYYU,0,0.2498400538500496,19.2,25,Low Risk,75,Healthy,0.0,Established,Upsell Opportunity
+2335-GSODA,0,0.01804623072483175,40.1,23,Low Risk,98,Healthy,0.0,Growing,Upsell Opportunity
+5696-CEIQJ,0,0.033894132103645246,103.15,67,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+6169-PPETC,0,0.008991193709334577,20.5,35,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+4237-RLAQD,1,0.7498920107550844,45.85,1,High Risk,25,Monitor Closely,550.2,New,Launch Retention Campaign
+7359-WWYJV,0,0.14336023692623315,114.45,72,Low Risk,86,Healthy,0.0,Loyal,Upsell Opportunity
+8620-RJPZN,0,0.5455833421302446,20.7,1,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+7426-WEIJX,0,0.22157765536776436,80.95,60,Low Risk,78,Healthy,0.0,Loyal,Upsell Opportunity
+7629-WIXZF,0,0.5336800768906732,59.1,7,Moderate Risk,47,Nurture,0.0,New,Increase Feature Adoption
+2616-FLVQC,0,0.016089965489156133,19.55,64,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+9163-GHAYE,0,0.45862231263572356,48.85,15,Moderate Risk,54,Nurture,0.0,Growing,Increase Feature Adoption
+4464-JCOLN,1,0.31966612073707235,19.85,2,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+2971-SGAFL,0,0.716754816875529,78.75,13,High Risk,28,Monitor Closely,945.0,Growing,Launch Retention Campaign
+4735-ASGMA,1,0.8515606485416851,98.35,26,High Risk,15,Immediate Action,1180.1999999999998,Established,Assign Customer Success Manager
+5245-VDBUR,0,0.1351776251305646,35.45,52,Low Risk,86,Healthy,0.0,Loyal,Upsell Opportunity
+1493-AMTIE,1,0.5431214246938875,20.2,1,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+1112-CUNAO,1,0.7416903997890757,89.85,15,High Risk,26,Monitor Closely,1078.1999999999998,Growing,Launch Retention Campaign
+7571-YXDAD,1,0.8600526151874874,74.9,2,High Risk,14,Immediate Action,898.8000000000001,New,Assign Customer Success Manager
+8714-EUHJO,1,0.7772353806990534,91.15,31,High Risk,22,Monitor Closely,1093.8000000000002,Established,Launch Retention Campaign
+9040-KZVWO,0,0.2705802122488117,75.5,26,Low Risk,73,Healthy,0.0,Established,Upsell Opportunity
+6713-OKOMC,0,0.5398552368666697,29.75,10,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+8749-CLJXC,0,0.4648025175701833,20.05,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+4713-LZDRV,1,0.8930438630742397,79.6,2,High Risk,11,Immediate Action,955.1999999999999,New,Assign Customer Success Manager
+6598-RFFVI,1,0.2742266119465719,19.3,2,Low Risk,73,Healthy,0.0,New,Upsell Opportunity
+7470-MCQTK,1,0.7944265198485728,48.75,13,High Risk,21,Monitor Closely,585.0,Growing,Launch Retention Campaign
+5524-KHNJP,0,0.23776632577370643,74.75,33,Low Risk,76,Healthy,0.0,Established,Upsell Opportunity
+1707-HABPF,0,0.33307308515860656,91.3,46,Moderate Risk,67,Nurture,0.0,Established,Increase Feature Adoption
+4581-LNWUM,0,0.7416733954780826,49.15,13,High Risk,26,Monitor Closely,589.8,Growing,Launch Retention Campaign
+9710-ZUSHQ,1,0.6282281263416584,106.75,37,High Risk,37,Monitor Closely,1281.0,Established,Launch Retention Campaign
+1697-LYYYX,0,0.010751882638578968,19.1,61,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4013-GUXND,0,0.45939575087696316,20.8,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+5022-JNQEQ,0,0.4742937963402124,75.85,9,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+4983-CCWMC,0,0.8333807922522279,69.6,3,High Risk,17,Immediate Action,835.1999999999999,New,Assign Customer Success Manager
+6345-FZOQH,0,0.01870572628561675,19.9,69,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+0962-CQPWQ,0,0.004272612141965764,20.3,62,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+5495-GPSRW,0,0.06905491709560754,19.7,20,Low Risk,93,Healthy,0.0,Growing,Upsell Opportunity
+2252-JHJGE,0,0.41132366821002453,104.0,61,Moderate Risk,59,Nurture,0.0,Loyal,Increase Feature Adoption
+7356-AYNJP,0,0.37290146376844535,23.9,4,Moderate Risk,63,Nurture,0.0,New,Increase Feature Adoption
+2019-HDCZY,0,0.3353070639546792,102.6,63,Moderate Risk,66,Nurture,0.0,Loyal,Increase Feature Adoption
+8582-KRHPJ,0,0.2716024835271734,35.0,50,Low Risk,73,Healthy,0.0,Loyal,Upsell Opportunity
+2867-UIMSS,1,0.9304446573700236,80.5,1,High Risk,7,Immediate Action,966.0,New,Assign Customer Success Manager
+3487-EARAT,0,0.06994737501064298,74.1,70,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+9926-PJHDQ,0,0.1343861178581721,76.8,72,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+0289-IVARM,0,0.2769078836017984,60.55,35,Low Risk,72,Healthy,0.0,Established,Upsell Opportunity
+4672-FOTSD,0,0.5190315316966237,67.25,12,Moderate Risk,48,Nurture,0.0,New,Increase Feature Adoption
+6198-PNNSZ,0,0.38584077725445975,109.8,56,Moderate Risk,61,Nurture,0.0,Loyal,Increase Feature Adoption
+7603-USHJS,1,0.4432017342931033,73.75,12,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+6784-XYJAE,0,0.24993366471365625,55.8,36,Low Risk,75,Healthy,0.0,Established,Upsell Opportunity
+3858-XHYJO,0,0.45445870753651224,105.75,40,Moderate Risk,55,Nurture,0.0,Established,Increase Feature Adoption
+1087-UDSIH,1,0.487023166787296,19.6,3,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+7251-LJBQN,0,0.4894956520062308,103.75,40,Moderate Risk,51,Nurture,0.0,Established,Increase Feature Adoption
+3200-MNQTF,0,0.033407148460558735,70.9,67,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+9359-UGBTK,0,0.07056708278386652,72.35,67,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+8160-HOWOX,0,0.7908200350710585,66.85,7,High Risk,21,Monitor Closely,802.1999999999999,New,Launch Retention Campaign
+0258-NOKBL,0,0.8635607509252637,90.4,3,High Risk,14,Immediate Action,1084.8000000000002,New,Assign Customer Success Manager
+2800-QQUSO,0,0.7456747604908079,100.3,42,High Risk,25,Monitor Closely,1203.6,Established,Launch Retention Campaign
+2129-ALKBS,0,0.10258261440278421,26.2,40,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+9972-VAFJJ,0,0.422954836366748,94.0,53,Moderate Risk,58,Nurture,0.0,Loyal,Increase Feature Adoption
+4693-VWVBO,0,0.49620171177294453,19.55,3,Moderate Risk,50,Nurture,0.0,New,Increase Feature Adoption
+6969-MVBAI,0,0.8855072261061246,90.1,9,High Risk,11,Immediate Action,1081.1999999999998,New,Assign Customer Success Manager
+4821-WQOYN,0,0.004698818034997235,20.1,72,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+6769-DYBQN,1,0.4977007487581294,85.0,46,Moderate Risk,50,Nurture,0.0,Established,Increase Feature Adoption
+4018-PPNDW,0,0.04415968613844146,24.1,61,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+6288-CHQJB,0,0.04533133323517947,69.95,54,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+4905-JEFDW,1,0.6214649502805364,41.6,11,High Risk,38,Monitor Closely,499.20000000000005,New,Launch Retention Campaign
+0559-CKHUS,0,0.07619181852802007,19.55,29,Low Risk,92,Healthy,0.0,Established,Upsell Opportunity
+2659-VXMWZ,1,0.5042542977766525,111.3,67,Moderate Risk,50,Nurture,0.0,Loyal,Increase Feature Adoption
+6559-RAKOZ,0,0.2388051588655192,97.95,49,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+8809-XKHMD,0,0.13390857620425453,100.55,72,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+6365-HITVU,0,0.007686574737528999,87.25,71,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+0134-XWXCE,0,0.16247084798324615,74.85,44,Low Risk,84,Healthy,0.0,Established,Upsell Opportunity
+9720-JJJOR,0,0.14708599778766895,60.3,41,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+2782-LFZVW,0,0.742700333265683,58.95,11,High Risk,26,Monitor Closely,707.4000000000001,New,Launch Retention Campaign
+6112-KTHFQ,0,0.31980728358613597,19.3,13,Moderate Risk,68,Nurture,0.0,Growing,Increase Feature Adoption
+9220-ZNKJI,0,0.14371391390774377,88.8,55,Low Risk,86,Healthy,0.0,Loyal,Upsell Opportunity
+9820-RMCQV,1,0.4389849868682827,48.55,11,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+9013-AQORL,0,0.0975683614201205,45.55,48,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+2040-OBMLJ,0,0.28488764179933856,81.7,31,Low Risk,72,Healthy,0.0,Established,Upsell Opportunity
+5574-NXZIU,0,0.08624602278565333,109.2,63,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+5446-DKWYW,0,0.08872308883119064,65.2,61,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+0480-KYJVA,0,0.004910680610185583,24.25,72,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+1074-AMIOH,0,0.19019765449644507,108.25,53,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+0015-UOCOJ,0,0.6329474721319599,48.2,7,High Risk,37,Monitor Closely,578.4000000000001,New,Launch Retention Campaign
+0256-LTHVJ,1,0.7786226728726132,81.05,28,High Risk,22,Monitor Closely,972.5999999999999,Established,Launch Retention Campaign
+4547-LYTDD,1,0.7302360254926304,72.65,16,High Risk,27,Monitor Closely,871.8000000000001,Growing,Launch Retention Campaign
+1077-HUUJM,0,0.4876492647158374,71.05,7,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+2041-JIJCI,0,0.7723209291226698,64.0,5,High Risk,23,Monitor Closely,768.0,New,Launch Retention Campaign
+1555-HAPSU,0,0.005206337240964833,23.9,71,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4323-SADQS,1,0.31993828964215054,34.5,7,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+3292-PBZEJ,0,0.8760051626034876,111.4,11,High Risk,12,Immediate Action,1336.8000000000002,New,Assign Customer Success Manager
+6203-HBZPA,0,0.07128434232675819,63.9,52,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+9755-JHNMN,0,0.023268655803674942,67.4,49,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+7369-TRPFD,0,0.13375799590344822,18.8,19,Low Risk,87,Healthy,0.0,Growing,Upsell Opportunity
+9878-TNQGW,1,0.9129702692445721,80.95,2,High Risk,9,Immediate Action,971.4000000000001,New,Assign Customer Success Manager
+2279-AXJJK,0,0.5949844439805945,95.65,52,Moderate Risk,41,Nurture,0.0,Loyal,Increase Feature Adoption
+5016-IBERQ,0,0.7271415352563801,84.25,23,High Risk,27,Monitor Closely,1011.0,Growing,Launch Retention Campaign
+1016-DJTSV,0,0.821842052840878,69.7,8,High Risk,18,Immediate Action,836.4000000000001,New,Assign Customer Success Manager
+8433-WPJTV,0,0.15016582717367194,103.9,65,Low Risk,85,Healthy,0.0,Loyal,Upsell Opportunity
+8903-XEBGX,0,0.49087801746982845,55.3,2,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+2632-TACXW,0,0.033568541845058524,23.65,62,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+7952-OBOYL,0,0.8588088545432668,89.85,3,High Risk,14,Immediate Action,1078.1999999999998,New,Assign Customer Success Manager
+1470-PSXNM,0,0.22091525889507763,93.65,49,Low Risk,78,Healthy,0.0,Loyal,Upsell Opportunity
+6227-HWPWX,1,0.605616904329388,69.0,15,High Risk,39,Monitor Closely,828.0,Growing,Launch Retention Campaign
+5924-SNGKP,0,0.08411261986965651,20.25,41,Low Risk,92,Healthy,0.0,Established,Upsell Opportunity
+8818-DOPVL,0,0.7677280113546624,104.45,46,High Risk,23,Monitor Closely,1253.4,Established,Launch Retention Campaign
+4521-WFJAI,0,0.037142428261365434,25.95,56,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+4724-WXVWF,0,0.6044040410596896,95.4,48,High Risk,40,Monitor Closely,1144.8000000000002,Established,Launch Retention Campaign
+3717-OEAUQ,0,0.8232951391157449,70.7,2,High Risk,18,Immediate Action,848.4000000000001,New,Assign Customer Success Manager
+8165-ZJRNM,0,0.005087164942461115,23.75,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+7838-LAZFO,0,0.18112233531260782,78.8,45,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+0513-RBGPE,0,0.10227160856861127,62.8,37,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+7251-XFOIL,0,0.507282303111592,89.2,61,Moderate Risk,49,Nurture,0.0,Loyal,Increase Feature Adoption
+2525-GVKQU,0,0.017757831749226117,20.6,60,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+7579-OOPEC,1,0.6466429022927779,50.15,2,High Risk,35,Monitor Closely,601.8,New,Launch Retention Campaign
+3795-GWTRD,0,0.034338378284158526,75.55,63,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+4750-ZRXIU,1,0.912247332770281,84.6,4,High Risk,9,Immediate Action,1015.1999999999999,New,Assign Customer Success Manager
+5445-PZWGX,1,0.22584020089056564,102.0,62,Low Risk,77,Healthy,0.0,Loyal,Upsell Opportunity
+0516-UXRMT,0,0.2744312537224667,92.05,62,Low Risk,73,Healthy,0.0,Loyal,Upsell Opportunity
+0727-BNRLG,0,0.15257568984261624,97.65,69,Low Risk,85,Healthy,0.0,Loyal,Upsell Opportunity
+3932-CMDTD,1,0.7337320277211088,105.65,4,High Risk,27,Monitor Closely,1267.8000000000002,New,Launch Retention Campaign
+1264-FUHCX,0,0.2988277974396201,56.3,49,Low Risk,70,Healthy,0.0,Loyal,Upsell Opportunity
+6194-HBGQN,0,0.13007678767259637,81.15,51,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+4524-QCSSM,0,0.49382252315637404,44.65,26,Moderate Risk,51,Nurture,0.0,Established,Increase Feature Adoption
+4570-QHXHL,0,0.6710298494830883,43.75,9,High Risk,33,Monitor Closely,525.0,New,Launch Retention Campaign
+2972-YDYUW,0,0.32050523286760924,94.7,57,Moderate Risk,68,Nurture,0.0,Loyal,Increase Feature Adoption
+2061-VVFST,0,0.18743834832444847,19.5,37,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+6874-SGLHU,0,0.4358710779848128,97.0,30,Moderate Risk,56,Nurture,0.0,Established,Increase Feature Adoption
+9844-FELAJ,0,0.1885253402162384,107.9,70,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+1902-XBTFB,1,0.7189201878496495,89.4,22,High Risk,28,Monitor Closely,1072.8000000000002,Growing,Launch Retention Campaign
+9039-RBEEE,1,0.3541883871996935,48.95,39,Moderate Risk,65,Nurture,0.0,Established,Increase Feature Adoption
+9369-XFEHK,1,0.6741147087960283,80.6,33,High Risk,33,Monitor Closely,967.1999999999999,Established,Launch Retention Campaign
+3680-CTHUH,0,0.3023883331778865,116.6,60,Moderate Risk,70,Nurture,0.0,Loyal,Increase Feature Adoption
+3679-XASPY,0,0.2481617350513839,19.45,1,Low Risk,75,Healthy,0.0,New,Upsell Opportunity
+9089-UOWJG,0,0.29606869402573055,58.35,12,Low Risk,70,Healthy,0.0,New,Upsell Opportunity
+1574-DYCWE,0,0.00591239183350053,19.95,51,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+9779-DPNEJ,0,0.4296695502192292,80.15,22,Moderate Risk,57,Nurture,0.0,Growing,Increase Feature Adoption
+2967-MXRAV,0,0.3472915202318641,18.8,1,Moderate Risk,65,Nurture,0.0,New,Increase Feature Adoption
+0327-WFZSY,0,0.2640151365828734,100.0,39,Low Risk,74,Healthy,0.0,Established,Upsell Opportunity
+1731-TVIUK,1,0.899318469223669,93.5,4,High Risk,10,Immediate Action,1122.0,New,Assign Customer Success Manager
+7666-WKRON,1,0.16950077086296017,80.45,39,Low Risk,83,Healthy,0.0,Established,Upsell Opportunity
+3865-ZYKAD,0,0.4558375652661589,84.9,69,Moderate Risk,54,Nurture,0.0,Loyal,Increase Feature Adoption
+1465-LNTLJ,0,0.629942441968868,64.4,8,High Risk,37,Monitor Closely,772.8000000000001,New,Launch Retention Campaign
+2696-RZVZW,0,0.02813918537689037,25.05,68,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+0685-MLYYM,1,0.8374198365299276,70.75,2,High Risk,16,Immediate Action,849.0,New,Assign Customer Success Manager
+2778-OCLGR,1,0.5337362362321257,39.1,24,Moderate Risk,47,Nurture,0.0,Growing,Increase Feature Adoption
+3982-XWFZQ,1,0.5341430391592312,50.25,42,Moderate Risk,47,Nurture,0.0,Established,Increase Feature Adoption
+4759-PXTAN,0,0.32856516297360616,80.1,59,Moderate Risk,67,Nurture,0.0,Loyal,Increase Feature Adoption
+1448-PWKYE,1,0.948479079927894,80.0,1,High Risk,5,Immediate Action,960.0,New,Assign Customer Success Manager
+8741-LQOBK,0,0.07276813689404267,35.05,46,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+8650-RHRKE,1,0.8113635707438108,29.65,4,High Risk,19,Immediate Action,355.79999999999995,New,Assign Customer Success Manager
+7266-GSSJX,0,0.19624116787399565,20.45,11,Low Risk,80,Healthy,0.0,New,Upsell Opportunity
+1265-HVPZB,0,0.12004526624932715,66.4,59,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+9640-ZSLDC,0,0.03646013751284552,60.6,53,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+0988-JRWWP,0,0.8285507021024598,54.2,3,High Risk,17,Immediate Action,650.4000000000001,New,Assign Customer Success Manager
+1926-QUZNN,0,0.03264141405729931,25.25,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+9025-ZRPVR,1,0.4251077949826124,18.95,9,Moderate Risk,57,Nurture,0.0,New,Increase Feature Adoption
+6527-PZFPV,0,0.03986058229850106,20.8,24,Low Risk,96,Healthy,0.0,Growing,Upsell Opportunity
+7460-ITWWP,0,0.7155420770376966,86.1,45,High Risk,28,Monitor Closely,1033.1999999999998,Established,Launch Retention Campaign
+1530-ZTDOZ,0,0.34676444323216915,40.65,49,Moderate Risk,65,Nurture,0.0,Loyal,Increase Feature Adoption
+4785-FCIFB,0,0.03388563993213855,24.4,61,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+9717-QEBGU,0,0.8918959418543164,70.3,2,High Risk,11,Immediate Action,843.5999999999999,New,Assign Customer Success Manager
+0876-WDUUZ,1,0.7899481320784156,85.4,5,High Risk,21,Monitor Closely,1024.8000000000002,New,Launch Retention Campaign
+7881-EVUAD,1,0.8560689910706041,42.6,2,High Risk,14,Immediate Action,511.20000000000005,New,Assign Customer Success Manager
+4002-BQWPQ,0,0.2947779431781061,81.75,25,Low Risk,71,Healthy,0.0,Established,Upsell Opportunity
+6377-WHAOX,0,0.7717699714848166,106.15,60,High Risk,23,Monitor Closely,1273.8000000000002,Loyal,Launch Retention Campaign
+5027-YOCXN,0,0.3320444733454185,110.05,51,Moderate Risk,67,Nurture,0.0,Loyal,Increase Feature Adoption
+8450-JOVAH,1,0.31604445880722487,56.7,2,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+6646-QVXLR,1,0.6284522919486045,103.75,62,High Risk,37,Monitor Closely,1245.0,Loyal,Launch Retention Campaign
+0254-KCJGT,0,0.15975137940218898,81.4,52,Low Risk,84,Healthy,0.0,Loyal,Upsell Opportunity
+3442-ZHHCC,0,0.1290676618761191,76.9,68,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+9167-APMXZ,0,0.7519940334196948,84.15,22,High Risk,25,Monitor Closely,1009.8000000000001,Growing,Launch Retention Campaign
+0616-ATFGB,1,0.8558933972852081,25.05,1,High Risk,14,Immediate Action,300.6,New,Assign Customer Success Manager
+7273-TEFQD,1,0.8549512890069946,41.15,3,High Risk,15,Immediate Action,493.79999999999995,New,Assign Customer Success Manager
+8245-UMPYT,1,0.8519948847109301,96.4,16,High Risk,15,Immediate Action,1156.8000000000002,Growing,Assign Customer Success Manager
+6022-UGGSO,1,0.6427230022730785,74.4,32,High Risk,36,Monitor Closely,892.8000000000001,Established,Launch Retention Campaign
+6292-TOSSS,0,0.03373312546933021,24.9,50,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+5207-PLSTK,0,0.3917695120292529,48.75,1,Moderate Risk,61,Nurture,0.0,New,Increase Feature Adoption
+3908-BLSYF,1,0.8372567975597917,83.9,6,High Risk,16,Immediate Action,1006.8000000000001,New,Assign Customer Success Manager
+4317-VTEOA,1,0.8035009117123809,50.75,1,High Risk,20,Immediate Action,609.0,New,Assign Customer Success Manager
+0625-AFOHS,0,0.01110964216201077,20.2,29,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+4667-OHGKG,1,0.5497777569934599,19.3,1,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+2386-OWURY,0,0.5813722239805295,95.3,58,Moderate Risk,42,Nurture,0.0,Loyal,Increase Feature Adoption
+3780-DDGSE,0,0.18658943924104393,76.05,35,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+1047-RNXZV,0,0.027879691419822626,19.55,43,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+3926-YZVVX,0,0.09889864065488585,50.05,41,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+4742-TXUEX,0,0.006850258008907516,19.3,47,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+8709-KRDVL,0,0.797651069566515,100.0,33,High Risk,20,Monitor Closely,1200.0,Established,Launch Retention Campaign
+0397-ZXWQF,0,0.014049123732357999,20.5,67,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+3910-MRQOY,0,0.016617270879839247,19.4,72,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+2511-MORQY,0,0.19643625788752966,54.9,50,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+4039-PIMHX,0,0.06317904313209274,49.8,49,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+8083-YTZES,1,0.9136370805748993,74.35,4,High Risk,9,Immediate Action,892.1999999999999,New,Assign Customer Success Manager
+1346-PJWTK,0,0.41862196178851524,94.15,61,Moderate Risk,58,Nurture,0.0,Loyal,Increase Feature Adoption
+3750-YHRYO,0,0.24609642547917845,20.65,7,Low Risk,75,Healthy,0.0,New,Upsell Opportunity
+1236-WFCDV,1,0.7126357872521296,90.45,14,High Risk,29,Monitor Closely,1085.4,Growing,Launch Retention Campaign
+5949-HGVJL,0,0.6026901678962913,73.05,26,High Risk,40,Monitor Closely,876.5999999999999,Established,Launch Retention Campaign
+9112-WSNPU,0,0.5548225129826497,70.55,35,Moderate Risk,45,Nurture,0.0,Established,Increase Feature Adoption
+1360-JYXKQ,0,0.505865822181291,99.1,54,Moderate Risk,49,Nurture,0.0,Loyal,Increase Feature Adoption
+3585-ISXZP,1,0.8382237205308054,95.65,8,High Risk,16,Immediate Action,1147.8000000000002,New,Assign Customer Success Manager
+8380-PEFPE,1,0.9216586601662945,71.65,1,High Risk,8,Immediate Action,859.8000000000001,New,Assign Customer Success Manager
+9402-ROUMJ,0,0.0784877074096221,100.25,67,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+4335-UPJSI,0,0.009147859476845018,19.75,24,Low Risk,99,Healthy,0.0,Growing,Upsell Opportunity
+6096-EGVTU,0,0.013824019296720391,24.9,64,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+8988-ECPJR,1,0.6758918008044827,79.6,34,High Risk,32,Monitor Closely,955.1999999999999,Established,Launch Retention Campaign
+7677-SJJJK,0,0.2520657857733099,19.9,8,Low Risk,75,Healthy,0.0,New,Upsell Opportunity
+5850-BDWCY,0,0.3661826584635622,20.2,6,Moderate Risk,63,Nurture,0.0,New,Increase Feature Adoption
+2025-JKFWI,1,0.7879124624717224,99.0,13,High Risk,21,Monitor Closely,1188.0,Growing,Launch Retention Campaign
+8028-PNXHQ,0,0.046136505229307165,24.25,62,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+8397-MVTAZ,1,0.8505440577883331,100.05,34,High Risk,15,Immediate Action,1200.6,Established,Assign Customer Success Manager
+4445-ZJNMU,0,0.8634338522923073,99.3,9,High Risk,14,Immediate Action,1191.6,New,Assign Customer Success Manager
+3125-RAHBV,0,0.10392357108764662,20.3,22,Low Risk,90,Healthy,0.0,Growing,Upsell Opportunity
+6682-QJDGB,1,0.058912482228443246,55.25,40,Low Risk,94,Healthy,0.0,Established,Upsell Opportunity
+8840-DQLGN,1,0.5725564062763648,100.5,35,Moderate Risk,43,Nurture,0.0,Established,Increase Feature Adoption
+6258-NGCNG,0,0.45640942559147063,23.5,7,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+5917-RYRMG,0,0.08888782243564411,19.8,32,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+7157-SMCFK,0,0.0035252930098976123,19.75,61,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+0816-TSPHQ,0,0.41860679429461445,20.75,2,Moderate Risk,58,Nurture,0.0,New,Increase Feature Adoption
+6766-HFKLA,0,0.2474496942736824,103.2,56,Low Risk,75,Healthy,0.0,Loyal,Upsell Opportunity
+7067-KSAZT,1,0.58243130820134,106.25,65,Moderate Risk,42,Nurture,0.0,Loyal,Increase Feature Adoption
+5155-AZQPB,0,0.143198225113534,49.9,28,Low Risk,86,Healthy,0.0,Established,Upsell Opportunity
+6890-PFRQX,0,0.4642957692881454,69.5,18,Moderate Risk,54,Nurture,0.0,Growing,Increase Feature Adoption
+3508-VLHCZ,0,0.01772622851835158,90.55,71,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+3649-JPUGY,0,0.07617607360163985,88.6,72,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+9248-OJYKK,1,0.9478167784247239,76.45,1,High Risk,5,Immediate Action,917.4000000000001,New,Assign Customer Success Manager
+7239-HZZCX,1,0.46696761474710885,19.75,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+9860-LISIZ,0,0.1613674941838703,20.35,34,Low Risk,84,Healthy,0.0,Established,Upsell Opportunity
+6979-ZNSFF,1,0.8573157457192278,87.05,8,High Risk,14,Immediate Action,1044.6,New,Assign Customer Success Manager
+8938-UMKPI,1,0.7399637476818748,106.4,47,High Risk,26,Monitor Closely,1276.8000000000002,Established,Launch Retention Campaign
+1820-DJFPH,0,0.006901480091867964,24.05,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+0732-OCQOC,0,0.056136179645991255,25.05,52,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+6776-TLWOI,1,0.4038618448866895,19.85,3,Moderate Risk,60,Nurture,0.0,New,Increase Feature Adoption
+4940-KHCWD,0,0.04236141020939223,37.7,60,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+9057-SIHCH,1,0.9440646802703793,96.6,3,High Risk,6,Immediate Action,1159.1999999999998,New,Assign Customer Success Manager
+9866-QEVEE,1,0.7788122522852239,86.0,19,High Risk,22,Monitor Closely,1032.0,Growing,Launch Retention Campaign
+5542-TBBWB,0,0.9278321487963288,69.9,1,High Risk,7,Immediate Action,838.8000000000001,New,Assign Customer Success Manager
+4587-VVTOX,1,0.9562231744454454,105.3,6,High Risk,4,Immediate Action,1263.6,New,Assign Customer Success Manager
+6322-HRPFA,0,0.0356726780158019,59.6,49,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+6284-AHOOQ,1,0.7085274137700509,90.5,22,High Risk,29,Monitor Closely,1086.0,Growing,Launch Retention Campaign
+4530-NDRKU,0,0.03595531432170762,19.05,42,Low Risk,96,Healthy,0.0,Established,Upsell Opportunity
+1751-NCDLI,0,0.8408870412439486,98.85,46,High Risk,16,Immediate Action,1186.1999999999998,Established,Assign Customer Success Manager
+3893-JRNFS,0,0.3344727138867027,39.9,68,Moderate Risk,67,Nurture,0.0,Loyal,Increase Feature Adoption
+5857-XRECV,0,0.06013152575883482,20.5,2,Low Risk,94,Healthy,0.0,New,Upsell Opportunity
+3115-CZMZD,0,0.18786552214587834,20.25,0,Low Risk,81,Healthy,0.0,,Upsell Opportunity
+4489-SNOJF,1,0.13623012608892696,72.25,35,Low Risk,86,Healthy,0.0,Established,Upsell Opportunity
+1051-GEJLJ,0,0.4603255407593152,19.5,2,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+3563-SVYLG,0,0.0049489106419432285,62.65,68,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+4301-VVZKA,0,0.8340771196753209,75.4,16,High Risk,17,Immediate Action,904.8000000000001,Growing,Assign Customer Success Manager
+9351-HXDMR,0,0.1866317908067307,110.9,72,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+5161-XEUVX,0,0.24013181103026798,94.3,37,Low Risk,76,Healthy,0.0,Established,Upsell Opportunity
+3088-FVYWK,0,0.008143557393059091,25.55,53,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+9812-GHVRI,0,0.578830280825642,83.85,40,Moderate Risk,42,Nurture,0.0,Established,Increase Feature Adoption
+1370-GGAWX,0,0.506418741005772,94.15,46,Moderate Risk,49,Nurture,0.0,Established,Increase Feature Adoption
+6023-YEBUP,1,0.9358942270283045,100.95,3,High Risk,6,Immediate Action,1211.4,New,Assign Customer Success Manager
+9940-RHLFB,1,0.9008299360497849,75.3,1,High Risk,10,Immediate Action,903.5999999999999,New,Assign Customer Success Manager
+4541-RMRLG,1,0.48392934776476226,19.25,7,Moderate Risk,52,Nurture,0.0,New,Increase Feature Adoption
+2606-RMDHZ,1,0.6762098321806155,30.5,6,High Risk,32,Monitor Closely,366.0,New,Launch Retention Campaign
+5575-TPIZQ,0,0.559450062177428,89.15,46,Moderate Risk,44,Nurture,0.0,Established,Increase Feature Adoption
+9378-FXTIZ,1,0.3584469068487941,70.15,54,Moderate Risk,64,Nurture,0.0,Loyal,Increase Feature Adoption
+4631-OACRM,1,0.8018616897290609,79.4,15,High Risk,20,Immediate Action,952.8000000000001,Growing,Assign Customer Success Manager
+8593-WHYHV,1,0.9261009053216097,85.3,3,High Risk,7,Immediate Action,1023.5999999999999,New,Assign Customer Success Manager
+1403-GYAFU,0,0.003625792278783989,20.05,70,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+7641-TQFHN,0,0.05472675352316942,100.55,39,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+4237-CLSMM,0,0.5128951242435152,20.0,2,Moderate Risk,49,Nurture,0.0,New,Increase Feature Adoption
+4360-PNRQB,0,0.6903926377889984,75.6,18,High Risk,31,Monitor Closely,907.1999999999999,Growing,Launch Retention Campaign
+5334-AFQJB,0,0.025936278020172912,25.1,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+9308-ANMVE,0,0.06671439565818219,55.3,47,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+3530-VWVGU,0,0.07009712865041723,19.9,22,Low Risk,93,Healthy,0.0,Growing,Upsell Opportunity
+4674-HGNUA,0,0.012562086246147913,89.9,71,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+3030-YDNRM,0,0.8743923265326059,74.85,8,High Risk,13,Immediate Action,898.1999999999999,New,Assign Customer Success Manager
+3642-BYHDO,0,0.0034447392014425554,19.9,71,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+0440-UEDAI,0,0.2558289494168634,94.45,53,Low Risk,74,Healthy,0.0,Loyal,Upsell Opportunity
+9819-FBNSV,0,0.6043300205295632,72.25,37,High Risk,40,Monitor Closely,867.0,Established,Launch Retention Campaign
+9289-LBQVU,0,0.18826329333777708,70.15,64,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+4468-YDOVK,0,0.21966097033860169,48.65,5,Low Risk,78,Healthy,0.0,New,Upsell Opportunity
+2001-EWBQU,0,0.2633453823974108,104.7,60,Low Risk,74,Healthy,0.0,Loyal,Upsell Opportunity
+9992-UJOEL,0,0.6998688558428259,50.3,2,High Risk,30,Monitor Closely,603.5999999999999,New,Launch Retention Campaign
+8409-WQJUX,0,0.3929812153638968,54.2,25,Moderate Risk,61,Nurture,0.0,Established,Increase Feature Adoption
+3077-RSNTJ,0,0.13887622676554712,19.7,6,Low Risk,86,Healthy,0.0,New,Upsell Opportunity
+6993-YCOBK,0,0.07747622313156993,110.6,60,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+4817-VYYWS,1,0.8103001473704977,100.2,30,High Risk,19,Immediate Action,1202.4,Established,Assign Customer Success Manager
+4702-HDRKD,0,0.11688702586033795,49.35,67,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+3251-YMVWZ,0,0.06904868880685026,24.05,53,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+4190-MFLUW,1,0.5102307695887549,55.2,10,Moderate Risk,49,Nurture,0.0,New,Increase Feature Adoption
+4678-DVQEO,1,0.7643119069647939,52.2,1,High Risk,24,Monitor Closely,626.4000000000001,New,Launch Retention Campaign
+4701-AHWMW,1,0.5126524974711134,54.55,55,Moderate Risk,49,Nurture,0.0,Loyal,Increase Feature Adoption
+2987-BJXIK,0,0.05809962202169576,84.7,70,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+1730-VFMWO,0,0.2671982999383642,50.2,34,Low Risk,73,Healthy,0.0,Established,Upsell Opportunity
+1936-UAFEH,0,0.11834445692984373,110.25,68,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+5140-FOMCQ,0,0.4441968945923379,109.15,59,Moderate Risk,56,Nurture,0.0,Loyal,Increase Feature Adoption
+8778-LMWTJ,0,0.7322961694188307,74.85,9,High Risk,27,Monitor Closely,898.1999999999999,New,Launch Retention Campaign
+9840-DVNDC,1,0.8319697879684085,80.5,6,High Risk,17,Immediate Action,966.0,New,Assign Customer Success Manager
+8033-VCZGH,0,0.6040111290781845,103.95,50,High Risk,40,Monitor Closely,1247.4,Loyal,Launch Retention Campaign
+8580-QVLOC,1,0.060326096201616775,92.45,72,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+6128-AQBMT,0,0.7194997432340533,53.95,41,High Risk,28,Monitor Closely,647.4000000000001,Established,Launch Retention Campaign
+6257-RJOHI,0,0.5798843238313556,50.8,4,Moderate Risk,42,Nurture,0.0,New,Increase Feature Adoption
+1929-ZCBHE,0,0.041874637910379243,40.3,47,Low Risk,96,Healthy,0.0,Established,Upsell Opportunity
+6242-SGYTS,0,0.09968117584709,94.95,62,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+7010-ZMVBF,0,0.07442863279690218,20.45,18,Low Risk,93,Healthy,0.0,Growing,Upsell Opportunity
+3519-ZKXGG,1,0.9084273904800766,75.85,3,High Risk,9,Immediate Action,910.1999999999999,New,Assign Customer Success Manager
+5666-MBJPT,0,0.0292667836791757,25.1,65,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+3313-QKNKB,1,0.4678556479933015,85.55,59,Moderate Risk,53,Nurture,0.0,Loyal,Increase Feature Adoption
+7581-EBBOU,0,0.10945669952690831,70.15,60,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+1784-BXEFA,0,0.4190058626327438,20.55,10,Moderate Risk,58,Nurture,0.0,New,Increase Feature Adoption
+7492-TAFJD,0,0.23574641273065122,38.55,7,Low Risk,76,Healthy,0.0,New,Upsell Opportunity
+5213-TWWJU,0,0.5641039947839158,91.0,28,Moderate Risk,44,Nurture,0.0,Established,Increase Feature Adoption
+3312-ZWLGF,0,0.7258467415780241,79.3,29,High Risk,27,Monitor Closely,951.5999999999999,Established,Launch Retention Campaign
+2923-ARZLG,0,0.16437641657574475,19.7,0,Low Risk,84,Healthy,0.0,,Upsell Opportunity
+7032-LMBHI,0,0.1856945914791738,64.65,37,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+8292-ITGYJ,0,0.013651077761608283,24.65,45,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+9107-UKCKY,0,0.38264655839294826,79.8,61,Moderate Risk,62,Nurture,0.0,Loyal,Increase Feature Adoption
+6848-HJTXY,0,0.02145826000079115,19.45,64,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+4184-VODJZ,0,0.16597093554683914,91.35,63,Low Risk,83,Healthy,0.0,Loyal,Upsell Opportunity
+4846-WHAFZ,1,0.35980006937953757,76.5,37,Moderate Risk,64,Nurture,0.0,Established,Increase Feature Adoption
+8735-SDUFN,0,0.025349860765157314,24.3,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+0839-JTCUD,0,0.06549744889232642,89.9,66,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+6857-VWJDT,1,0.9522275544421709,95.65,1,High Risk,5,Immediate Action,1147.8000000000002,New,Assign Customer Success Manager
+7363-QTBIW,0,0.8689347045166962,79.75,9,High Risk,13,Immediate Action,957.0,New,Assign Customer Success Manager
+6158-HDPXZ,0,0.7453032975600679,25.35,1,High Risk,25,Monitor Closely,304.20000000000005,New,Launch Retention Campaign
+5419-CONWX,1,0.8417106686897412,99.8,4,High Risk,16,Immediate Action,1197.6,New,Assign Customer Success Manager
+9286-DOJGF,1,0.6771180621654287,74.95,38,High Risk,32,Monitor Closely,899.4000000000001,Established,Launch Retention Campaign
+2408-PSJVE,0,0.06152554923578899,61.9,44,Low Risk,94,Healthy,0.0,Established,Upsell Opportunity
+2087-QAREY,0,0.47354186594582953,54.7,22,Moderate Risk,53,Nurture,0.0,Growing,Increase Feature Adoption
+6777-TGHTM,1,0.38720155479133017,106.95,53,Moderate Risk,61,Nurture,0.0,Loyal,Increase Feature Adoption
+6507-ZJSUR,0,0.8371227727859212,90.45,23,High Risk,16,Immediate Action,1085.4,Growing,Assign Customer Success Manager
+5025-GOOKI,0,0.3003431938167488,18.9,20,Moderate Risk,70,Nurture,0.0,Growing,Increase Feature Adoption
+6080-LNESI,0,0.03271989222869685,24.75,51,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+2236-HILPA,0,0.004469233190796271,20.65,62,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+1386-ZIKUV,0,0.45585157063696574,18.95,7,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+3365-SAIGS,0,0.7811197475159469,83.55,17,High Risk,22,Monitor Closely,1002.5999999999999,Growing,Launch Retention Campaign
+6061-GWWAV,0,0.02432272734972969,70.2,41,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+9979-RGMZT,0,0.7187769752649286,94.05,7,High Risk,28,Monitor Closely,1128.6,New,Launch Retention Campaign
+8445-DNBAE,0,0.563095584309766,50.05,1,Moderate Risk,44,Nurture,0.0,New,Increase Feature Adoption
+6872-HXFNF,0,0.11796300558467498,58.35,64,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+1320-HTRDR,1,0.9070251756741282,75.5,3,High Risk,9,Immediate Action,906.0,New,Assign Customer Success Manager
+3923-CSIHK,1,0.6297530859058525,71.05,50,High Risk,37,Monitor Closely,852.5999999999999,Loyal,Launch Retention Campaign
+2446-ZKVAF,0,0.46527263861056406,56.8,18,Moderate Risk,53,Nurture,0.0,Growing,Increase Feature Adoption
+4640-UHDOS,1,0.6268059803068342,55.95,13,High Risk,37,Monitor Closely,671.4000000000001,Growing,Launch Retention Campaign
+5457-COLHT,0,0.00877330000569903,80.65,69,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+2254-DLXRI,0,0.9235196759540776,79.15,1,High Risk,8,Immediate Action,949.8000000000001,New,Assign Customer Success Manager
+5339-PXDVH,0,0.8505403923621246,90.65,4,High Risk,15,Immediate Action,1087.8000000000002,New,Assign Customer Success Manager
+2386-LAHRK,1,0.8260430200221123,53.5,1,High Risk,17,Immediate Action,642.0,New,Assign Customer Success Manager
+5062-CJJKH,0,0.05001896458757229,53.65,25,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+8930-XOTDP,0,0.14870394826554817,55.95,18,Low Risk,85,Healthy,0.0,Growing,Upsell Opportunity
+4779-ZGICK,0,0.009734314944026786,23.55,48,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+9534-NSXEM,0,0.11936532463807857,20.65,26,Low Risk,88,Healthy,0.0,Established,Upsell Opportunity
+3716-BDVDB,1,0.9293704356814226,69.1,1,High Risk,7,Immediate Action,829.1999999999999,New,Assign Customer Success Manager
+9842-EFSYY,0,0.441494896441508,57.2,4,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+9122-UMROB,0,0.46299927919278594,20.3,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+1867-BDVFH,1,0.8820427518685583,74.35,11,High Risk,12,Immediate Action,892.1999999999999,New,Assign Customer Success Manager
+5949-EBSQK,1,0.28274903818952024,61.45,4,Low Risk,72,Healthy,0.0,New,Upsell Opportunity
+4160-AMJTL,1,0.44493127342155675,19.65,8,Moderate Risk,56,Nurture,0.0,New,Increase Feature Adoption
+8622-ZLFKO,0,0.9275533985628707,90.75,6,High Risk,7,Immediate Action,1089.0,New,Assign Customer Success Manager
+2990-IAJSV,0,0.04292031067900808,92.0,72,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+6064-ZATLR,0,0.0538176950611223,52.85,27,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+7409-KIUTL,1,0.9234594253582653,71.0,1,High Risk,8,Immediate Action,852.0,New,Assign Customer Success Manager
+5505-OVWQW,0,0.1173879061066752,20.15,17,Low Risk,88,Healthy,0.0,Growing,Upsell Opportunity
+3948-KXDUF,0,0.0283756192138995,68.75,66,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+9814-AOUDH,0,0.021523910292318947,19.5,53,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+7398-LXGYX,0,0.594279739969857,84.8,44,Moderate Risk,41,Nurture,0.0,Established,Increase Feature Adoption
+5266-PFRQK,0,0.01809128843889217,20.85,52,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+1568-BEKZM,0,0.06422394183938135,90.05,70,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+2692-PFYTJ,0,0.6305533215688751,25.75,1,High Risk,37,Monitor Closely,309.0,New,Launch Retention Campaign
+2533-QVMSK,1,0.2795415293394777,94.1,61,Low Risk,72,Healthy,0.0,Loyal,Upsell Opportunity
+5828-AVIPD,1,0.7328395979448697,100.95,19,High Risk,27,Monitor Closely,1211.4,Growing,Launch Retention Campaign
+2907-ILJBN,0,0.21838673290165986,20.6,11,Low Risk,78,Healthy,0.0,New,Upsell Opportunity
+5226-NOZFC,0,0.7191219412276493,85.75,26,High Risk,28,Monitor Closely,1029.0,Established,Launch Retention Campaign
+7114-AEOZE,0,0.01769348560302831,19.85,60,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+2202-CUYXZ,1,0.950398346014597,84.85,1,High Risk,5,Immediate Action,1018.1999999999999,New,Assign Customer Success Manager
+3466-RITXD,0,0.6674252843561755,92.4,26,High Risk,33,Monitor Closely,1108.8000000000002,Established,Launch Retention Campaign
+7278-CKDNC,0,0.6948828709332511,80.5,24,High Risk,31,Monitor Closely,966.0,Growing,Launch Retention Campaign
+1956-YIFGE,0,0.2442365058649053,100.05,22,Low Risk,76,Healthy,0.0,Growing,Upsell Opportunity
+0422-UXFAP,0,0.6800894186322052,98.85,51,High Risk,32,Monitor Closely,1186.1999999999998,Loyal,Launch Retention Campaign
+3733-UOCWF,0,0.2937590962946199,85.55,61,Low Risk,71,Healthy,0.0,Loyal,Upsell Opportunity
+7191-ADRGF,0,0.17903053403676314,54.3,44,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+5709-LVOEQ,0,0.7669005187558602,80.85,0,High Risk,23,Monitor Closely,970.1999999999999,,Launch Retention Campaign
+6034-YMTOB,0,0.7080751591610196,75.65,5,High Risk,29,Monitor Closely,907.8000000000001,New,Launch Retention Campaign
+6372-RFVNS,1,0.947972533504309,78.8,1,High Risk,5,Immediate Action,945.5999999999999,New,Assign Customer Success Manager
+9052-DHNKM,0,0.20970962671527205,61.55,26,Low Risk,79,Healthy,0.0,Established,Upsell Opportunity
+5609-IMCGG,0,0.6336979526820714,84.35,15,High Risk,37,Monitor Closely,1012.1999999999999,Growing,Launch Retention Campaign
+2959-MJHIC,1,0.921200946603954,80.35,4,High Risk,8,Immediate Action,964.1999999999999,New,Assign Customer Success Manager
+1319-YLZJG,0,0.7914469740701461,84.6,12,High Risk,21,Monitor Closely,1015.1999999999999,New,Launch Retention Campaign
+7623-TRNQN,1,0.32477609272437646,49.9,1,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+0377-JBKKT,0,0.09377655849961757,57.95,22,Low Risk,91,Healthy,0.0,Growing,Upsell Opportunity
+1936-CZAKF,0,0.1619727050715048,49.65,49,Low Risk,84,Healthy,0.0,Loyal,Upsell Opportunity
+5063-IUOKK,0,0.06307428260167207,19.75,13,Low Risk,94,Healthy,0.0,Growing,Upsell Opportunity
+8646-JCOMS,0,0.26222256416166,90.55,66,Low Risk,74,Healthy,0.0,Loyal,Upsell Opportunity
+0979-MOZQI,0,0.10784012183854175,39.0,62,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+1525-LNLOJ,0,0.1239368945328803,63.3,66,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+5759-RCVCB,1,0.7478088909585027,35.2,3,High Risk,25,Monitor Closely,422.40000000000003,New,Launch Retention Campaign
+9968-FFVVH,0,0.06988494550332944,68.8,63,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+2266-FUBDZ,0,0.017460439529303692,19.35,15,Low Risk,98,Healthy,0.0,Growing,Upsell Opportunity
+4760-THGOT,0,0.7119210469424971,94.1,43,High Risk,29,Monitor Closely,1129.1999999999998,Established,Launch Retention Campaign
+2307-FYNNL,0,0.23861818521640388,109.05,65,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+1143-NMNQJ,1,0.9439811696407809,85.7,2,High Risk,6,Immediate Action,1028.4,New,Assign Customer Success Manager
+1629-DQQVB,0,0.315295498990643,50.1,14,Moderate Risk,68,Nurture,0.0,Growing,Increase Feature Adoption
+3766-EJLFL,0,0.04886467886959002,109.05,68,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+8457-XIGKN,0,0.3007321054812591,19.6,20,Moderate Risk,70,Nurture,0.0,Growing,Increase Feature Adoption
+4981-FLTMF,0,0.04259697067381188,65.2,57,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+7606-BPHHN,0,0.017274793368823135,19.8,72,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+7005-CCBKV,1,0.8335133558630089,84.4,6,High Risk,17,Immediate Action,1012.8000000000001,New,Assign Customer Success Manager
+4648-YPBTM,0,0.0838816353422886,73.9,53,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+2325-ZUSFD,1,0.21250330273031806,70.1,57,Low Risk,79,Healthy,0.0,Loyal,Upsell Opportunity
+1240-KNSEZ,1,0.5440282606575495,20.1,1,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+0430-IHCDJ,0,0.6475578008892529,49.0,15,High Risk,35,Monitor Closely,588.0,Growing,Launch Retention Campaign
+7957-RYHQD,1,0.4071743111937613,79.2,40,Moderate Risk,59,Nurture,0.0,Established,Increase Feature Adoption
+6164-HAQTX,0,0.03388314018921908,53.95,71,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+0749-IRGQE,0,0.8187616902102918,45.3,13,High Risk,18,Immediate Action,543.5999999999999,Growing,Assign Customer Success Manager
+1227-UDMZR,0,0.07630779749144317,91.15,72,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+5473-KHBPS,0,0.14114766201151133,95.7,52,Low Risk,86,Healthy,0.0,Loyal,Upsell Opportunity
+5297-MDOIR,0,0.2096192107479178,81.15,63,Low Risk,79,Healthy,0.0,Loyal,Upsell Opportunity
+8873-TMKGR,0,0.09462924709125774,19.1,29,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+6481-ESCNL,0,0.708312930321756,100.55,29,High Risk,29,Monitor Closely,1206.6,Established,Launch Retention Campaign
+0463-WZZKO,0,0.47432771341391994,20.75,3,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+1038-RQOST,0,0.07015980591986885,20.6,19,Low Risk,93,Healthy,0.0,Growing,Upsell Opportunity
+4937-QPZPO,0,0.24163980708927255,99.9,61,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+3604-WLABM,0,0.4909103550450904,54.25,10,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+1360-XFJMR,0,0.4349030415963432,109.7,67,Moderate Risk,57,Nurture,0.0,Loyal,Increase Feature Adoption
+8717-VCTXJ,0,0.08659914127424585,19.55,42,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+5196-SGOAK,1,0.9177413618796951,75.7,1,High Risk,8,Immediate Action,908.4000000000001,New,Assign Customer Success Manager
+8739-XNIKG,0,0.9102737863337832,84.0,5,High Risk,9,Immediate Action,1008.0,New,Assign Customer Success Manager
+2320-TZRRH,0,0.11116214772261192,19.5,20,Low Risk,89,Healthy,0.0,Growing,Upsell Opportunity
+5186-SAMNZ,1,0.9027658103638057,69.5,1,High Risk,10,Immediate Action,834.0,New,Assign Customer Success Manager
+5760-FXFVO,0,0.7546626264055447,78.95,6,High Risk,25,Monitor Closely,947.4000000000001,New,Launch Retention Campaign
+5380-WJKOV,1,0.43880268134125683,106.35,34,Moderate Risk,56,Nurture,0.0,Established,Increase Feature Adoption
+4703-MQYKT,0,0.05299706979179531,19.6,21,Low Risk,95,Healthy,0.0,Growing,Upsell Opportunity
+2001-MCUUW,0,0.2777433844881553,108.65,46,Low Risk,72,Healthy,0.0,Established,Upsell Opportunity
+4947-DSMXK,0,0.4309781051005856,97.7,34,Moderate Risk,57,Nurture,0.0,Established,Increase Feature Adoption
+0076-LVEPS,0,0.09202787955830176,45.0,29,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+5566-SOEZD,0,0.08887816917107418,80.65,27,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+7408-OFWXJ,0,0.05955206866300793,89.8,72,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+1097-FSPVW,0,0.17682477250413045,54.55,42,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+4412-YLTKF,1,0.3660675763292092,78.05,27,Moderate Risk,63,Nurture,0.0,Established,Increase Feature Adoption
+0420-TXVSG,0,0.05794719945324479,66.1,66,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+7817-BOQPW,1,0.9080497791088108,75.55,2,High Risk,9,Immediate Action,906.5999999999999,New,Assign Customer Success Manager
+0963-ZBDRN,1,0.6855280646019069,96.2,32,High Risk,31,Monitor Closely,1154.4,Established,Launch Retention Campaign
+9685-WKZGT,1,0.8035866188109331,74.95,14,High Risk,20,Immediate Action,899.4000000000001,Growing,Assign Customer Success Manager
+2139-FQHLM,0,0.5533018552435264,89.95,19,Moderate Risk,45,Nurture,0.0,Growing,Increase Feature Adoption
+5825-XJOCM,0,0.03218694499935481,64.4,48,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+0004-TLHLJ,1,0.8712455966864286,73.9,4,High Risk,13,Immediate Action,886.8000000000001,New,Assign Customer Success Manager
+7529-ZDFXI,0,0.7523294274868734,89.85,57,High Risk,25,Monitor Closely,1078.1999999999998,Loyal,Launch Retention Campaign
+6848-YLDFR,0,0.045963798321778965,75.2,58,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+5820-PTRYM,0,0.12432385889078487,68.45,56,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+2984-RGEYA,0,0.01825300338544908,19.75,69,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6434-TTGJP,0,0.05551288246894425,53.7,10,Low Risk,94,Healthy,0.0,New,Upsell Opportunity
+9643-AVVWI,0,0.5475543558270614,80.0,3,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+3506-OVLKD,0,0.09899231279152286,26.2,35,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+4946-EDSEW,1,0.16730312035041803,19.25,11,Low Risk,83,Healthy,0.0,New,Upsell Opportunity
+2924-KHUVI,0,0.5808374252561014,100.55,56,Moderate Risk,42,Nurture,0.0,Loyal,Increase Feature Adoption
+2263-SFSQZ,0,0.01222467471752469,24.95,51,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+5281-BUZGT,1,0.7072536438589051,90.85,36,High Risk,29,Monitor Closely,1090.1999999999998,Established,Launch Retention Campaign
+3717-FDJFU,0,0.02169693606188798,20.45,5,Low Risk,98,Healthy,0.0,New,Upsell Opportunity
+2239-CFOUJ,0,0.09031977729428883,20.4,1,Low Risk,91,Healthy,0.0,New,Upsell Opportunity
+8699-ASUFO,1,0.8654953270020062,74.4,7,High Risk,13,Immediate Action,892.8000000000001,New,Assign Customer Success Manager
+1122-YJBCS,0,0.08812187050843186,53.65,69,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+0628-CNQRM,1,0.24134902250982418,67.5,22,Low Risk,76,Healthy,0.0,Growing,Upsell Opportunity
+1705-GUHPV,0,0.02277392629913094,24.2,63,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+4877-TSOFF,0,0.03408314301382527,75.75,55,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+7404-JLKQG,0,0.7748054765512375,57.55,3,High Risk,23,Monitor Closely,690.5999999999999,New,Launch Retention Campaign
+0379-DJQHR,0,0.057138384118159885,81.35,67,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+8993-PHFWD,1,0.785091610755597,25.25,3,High Risk,21,Monitor Closely,303.0,New,Launch Retention Campaign
+3930-ZGWVE,0,0.46696761474710885,19.75,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+1965-DDBWU,1,0.7194198822999908,89.05,16,High Risk,28,Monitor Closely,1068.6,Growing,Launch Retention Campaign
+7572-KPVKK,0,0.07427990556105817,104.05,62,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+6854-EXGSF,0,0.5178234566238057,65.5,8,Moderate Risk,48,Nurture,0.0,New,Increase Feature Adoption
+9483-GCPWE,0,0.042553007874899164,20.1,9,Low Risk,96,Healthy,0.0,New,Upsell Opportunity
+8053-WWDRO,1,0.4168471547596126,19.5,6,Moderate Risk,58,Nurture,0.0,New,Increase Feature Adoption
+9473-CBZOP,0,0.17083374505820761,59.0,28,Low Risk,83,Healthy,0.0,Established,Upsell Opportunity
+3985-HOYPM,0,0.09720113175502662,19.4,26,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+8378-LKJAF,0,0.4050769917383597,101.15,38,Moderate Risk,59,Nurture,0.0,Established,Increase Feature Adoption
+1310-QRITU,0,0.6137371031420594,50.3,18,High Risk,39,Monitor Closely,603.5999999999999,Growing,Launch Retention Campaign
+3237-AJGEH,1,0.37324447977442327,31.0,3,Moderate Risk,63,Nurture,0.0,New,Increase Feature Adoption
+6542-LWGXJ,0,0.7518660504544594,25.0,3,High Risk,25,Monitor Closely,300.0,New,Launch Retention Campaign
+6953-PBDIN,0,0.059894218407278405,72.95,70,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+6332-FBZRI,0,0.02245671375765135,69.35,67,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+9365-CSLBQ,0,0.003920284959855152,24.35,71,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+3466-WAESX,0,0.2418880669993507,69.1,16,Low Risk,76,Healthy,0.0,Growing,Upsell Opportunity
+9700-ISPUP,0,0.3355099819423427,65.5,10,Moderate Risk,66,Nurture,0.0,New,Increase Feature Adoption
+5167-ZFFMM,1,0.9467510764194487,90.85,1,High Risk,5,Immediate Action,1090.1999999999998,New,Assign Customer Success Manager
+7669-LCRSD,0,0.3215820268840671,56.3,12,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+0870-VEMYL,1,0.42582378587256414,53.85,5,Moderate Risk,57,Nurture,0.0,New,Increase Feature Adoption
+2995-UPRYS,1,0.43887760200113296,99.2,40,Moderate Risk,56,Nurture,0.0,Established,Increase Feature Adoption
+3179-GBRWV,0,0.4866702703972936,64.95,21,Moderate Risk,51,Nurture,0.0,Growing,Increase Feature Adoption
+0701-TJSEF,0,0.5529893615426003,68.25,9,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+1848-LBZHY,0,0.5915206864842991,50.3,7,Moderate Risk,41,Nurture,0.0,New,Increase Feature Adoption
+5380-XPJNZ,0,0.07320209720237308,20.05,38,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+6608-QQLVK,1,0.8201622105534325,50.5,1,High Risk,18,Immediate Action,606.0,New,Assign Customer Success Manager
+1475-VWVDO,0,0.8422546684793135,74.9,7,High Risk,16,Immediate Action,898.8000000000001,New,Assign Customer Success Manager
+3721-CNEYS,1,0.8913849640505831,70.95,2,High Risk,11,Immediate Action,851.4000000000001,New,Assign Customer Success Manager
+4299-OPXEJ,0,0.026779541202696353,19.55,56,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+0096-BXERS,0,0.7491453953487515,50.35,6,High Risk,25,Monitor Closely,604.2,New,Launch Retention Campaign
+3055-VTCGS,0,0.12006121473713122,58.55,63,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+9405-GPBBG,0,0.1989301258563953,110.5,64,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+6704-UTUKK,0,0.7749042815232612,45.9,29,High Risk,23,Monitor Closely,550.8,Established,Launch Retention Campaign
+9944-AEXBM,0,0.7140410347245001,85.65,32,High Risk,29,Monitor Closely,1027.8000000000002,Established,Launch Retention Campaign
+2545-EBUPK,0,0.9372322315058615,84.05,2,High Risk,6,Immediate Action,1008.5999999999999,New,Assign Customer Success Manager
+6270-OMFIW,1,0.5303184504936734,94.4,60,Moderate Risk,47,Nurture,0.0,Loyal,Increase Feature Adoption
+1852-XEMDW,0,0.3248648329914816,65.05,22,Moderate Risk,68,Nurture,0.0,Growing,Increase Feature Adoption
+8158-WPEZG,0,0.6582454138025374,35.65,11,High Risk,34,Monitor Closely,427.79999999999995,New,Launch Retention Campaign
+5198-EFNBM,0,0.4462716552914,90.65,57,Moderate Risk,55,Nurture,0.0,Loyal,Increase Feature Adoption
+7663-RGWBC,1,0.7590250097191952,44.15,1,High Risk,24,Monitor Closely,529.8,New,Launch Retention Campaign
+3970-XGJDU,0,0.023424538737405975,19.2,62,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6845-RGTYS,1,0.7152730761682582,98.75,47,High Risk,28,Monitor Closely,1185.0,Established,Launch Retention Campaign
+0123-CRBRT,0,0.07196963606802403,88.1,61,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+6077-BDPXA,0,0.8858718023620188,70.15,3,High Risk,11,Immediate Action,841.8000000000001,New,Assign Customer Success Manager
+2250-IVBWA,0,0.1071116832450831,81.05,64,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+6137-NICCO,0,0.6562056627816203,94.05,6,High Risk,34,Monitor Closely,1128.6,New,Launch Retention Campaign
+8129-GMVGI,0,0.005224461075679379,20.05,56,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4353-HYOJD,0,0.09994689928060327,49.85,27,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+8671-KKKOS,0,0.4422066276597895,45.55,46,Moderate Risk,56,Nurture,0.0,Established,Increase Feature Adoption
+8080-DDEMJ,1,0.7676498812561701,45.1,1,High Risk,23,Monitor Closely,541.2,New,Launch Retention Campaign
+6698-OXETB,0,0.0841140817054877,20.4,11,Low Risk,92,Healthy,0.0,New,Upsell Opportunity
+3312-UUMZW,0,0.8062171650875859,98.85,32,High Risk,19,Immediate Action,1186.1999999999998,Established,Assign Customer Success Manager
+6376-GAHQE,1,0.8720289303438162,77.85,4,High Risk,13,Immediate Action,934.1999999999999,New,Assign Customer Success Manager
+0733-VUNUW,1,0.3922413964710908,55.65,24,Moderate Risk,61,Nurture,0.0,Growing,Increase Feature Adoption
+6733-LRIZX,0,0.28923780826862805,108.95,35,Low Risk,71,Healthy,0.0,Established,Upsell Opportunity
+2165-VOEGB,1,0.27709623006526185,105.2,46,Low Risk,72,Healthy,0.0,Established,Upsell Opportunity
+1853-UDXBW,1,0.9456170134560663,70.0,1,High Risk,5,Immediate Action,840.0,New,Assign Customer Success Manager
+9070-BCKQP,0,0.20015723689297493,110.15,72,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+1035-IPQPU,0,0.7899714129912784,103.5,63,High Risk,21,Monitor Closely,1242.0,Loyal,Launch Retention Campaign
+2057-ZBLPD,1,0.8460848811832592,86.5,21,High Risk,15,Immediate Action,1038.0,Growing,Assign Customer Success Manager
+6967-PEJLL,0,0.06699360111136869,40.2,37,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+7879-CGSFV,0,0.30028230637315617,100.9,55,Moderate Risk,70,Nurture,0.0,Loyal,Increase Feature Adoption
+2257-BOVXD,0,0.5970065649874913,66.6,14,Moderate Risk,40,Nurture,0.0,Growing,Increase Feature Adoption
+9822-BIIGN,0,0.089472362091735,71.85,53,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+1136-XGEQU,0,0.2965212243263572,84.15,50,Low Risk,70,Healthy,0.0,Loyal,Upsell Opportunity
+2439-LYPMQ,0,0.8424126851365211,102.6,38,High Risk,16,Immediate Action,1231.1999999999998,Established,Assign Customer Success Manager
+6543-XRMYR,1,0.8178528508940233,99.7,30,High Risk,18,Immediate Action,1196.4,Established,Assign Customer Success Manager
+5753-QQWPW,0,0.16330136319345345,59.9,28,Low Risk,84,Healthy,0.0,Established,Upsell Opportunity
+4785-QRJHC,1,0.3318197627669611,59.9,46,Moderate Risk,67,Nurture,0.0,Established,Increase Feature Adoption
+0052-YNYOT,0,0.04556643491495747,20.55,67,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+7054-LGEQW,1,0.6799312863662352,45.95,1,High Risk,32,Monitor Closely,551.4000000000001,New,Launch Retention Campaign
+0608-JDVEC,0,0.044074106433532045,19.8,50,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+6284-KMNUF,0,0.6070200576804587,98.0,56,High Risk,39,Monitor Closely,1176.0,Loyal,Launch Retention Campaign
+6286-SUUWT,0,0.4655240733148752,19.95,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+3594-KADLU,0,0.6433774172350086,35.1,3,High Risk,36,Monitor Closely,421.20000000000005,New,Launch Retention Campaign
+0536-ACXIP,0,0.28435374469397645,109.55,72,Low Risk,72,Healthy,0.0,Loyal,Upsell Opportunity
+8869-TORSS,1,0.08441699898165228,60.35,48,Low Risk,92,Healthy,0.0,Established,Upsell Opportunity
+0373-AIVNJ,0,0.3153312089639936,39.55,9,Moderate Risk,68,Nurture,0.0,New,Increase Feature Adoption
+6429-SHBCB,0,0.5710057358741017,69.6,19,Moderate Risk,43,Nurture,0.0,Growing,Increase Feature Adoption
+5751-USDBL,0,0.013621049929071536,81.0,46,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+6815-ABQFQ,0,0.5409439227192604,107.25,56,Moderate Risk,46,Nurture,0.0,Loyal,Increase Feature Adoption
+9450-TRJUU,0,0.7234826961576836,83.15,35,High Risk,28,Monitor Closely,997.8000000000001,Established,Launch Retention Campaign
+2805-AUFQN,0,0.04584566586037883,19.8,25,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+7855-DIWPO,0,0.6967440028301951,68.65,21,High Risk,30,Monitor Closely,823.8000000000001,Growing,Launch Retention Campaign
+0174-QRVVY,0,0.00496149751659377,25.35,71,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+9507-EXLTT,1,0.9447753826858996,79.35,1,High Risk,6,Immediate Action,952.1999999999999,New,Assign Customer Success Manager
+8390-FESFV,0,0.0718423641241806,84.5,62,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+0661-KBKPA,0,0.08783699269685957,78.75,53,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+6856-RAURS,0,0.904865225104717,74.9,2,High Risk,10,Immediate Action,898.8000000000001,New,Assign Customer Success Manager
+7322-OCWHC,0,0.10991751926401896,93.05,72,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+2203-GHNWN,0,0.7316923511659059,79.65,24,High Risk,27,Monitor Closely,955.8000000000001,Growing,Launch Retention Campaign
+3413-CSSTH,0,0.39586923315001316,55.7,41,Moderate Risk,60,Nurture,0.0,Established,Increase Feature Adoption
+3006-XIMLN,1,0.9413327074766521,94.2,2,High Risk,6,Immediate Action,1130.4,New,Assign Customer Success Manager
+3750-CKVKH,1,0.9192579467156362,67.75,2,High Risk,8,Immediate Action,813.0,New,Assign Customer Success Manager
+0576-WNXXC,1,0.832559883765752,95.55,27,High Risk,17,Immediate Action,1146.6,Established,Assign Customer Success Manager
+7056-IMHCC,1,0.7835967418743434,101.9,53,High Risk,22,Monitor Closely,1222.8000000000002,Loyal,Launch Retention Campaign
+0866-QLSIR,1,0.15290757394561882,64.4,34,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+1628-BIZYP,0,0.9462984573396482,85.0,1,High Risk,5,Immediate Action,1020.0,New,Assign Customer Success Manager
+2230-XTUWL,0,0.006730987964144424,19.55,48,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+1980-KXVPM,1,0.8410493005818401,75.05,3,High Risk,16,Immediate Action,900.5999999999999,New,Assign Customer Success Manager
+8619-IJNDK,0,0.02291068221370833,64.05,71,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+2960-NKRSO,0,0.5661134557524488,85.95,24,Moderate Risk,43,Nurture,0.0,Growing,Increase Feature Adoption
+6705-LXORM,0,0.8766187090363443,70.05,5,High Risk,12,Immediate Action,840.5999999999999,New,Assign Customer Success Manager
+7130-VTEWQ,1,0.8605313742636475,75.75,8,High Risk,14,Immediate Action,909.0,New,Assign Customer Success Manager
+9364-YKUVW,0,0.31525376931917,19.8,15,Moderate Risk,68,Nurture,0.0,Growing,Increase Feature Adoption
+2761-OCIAX,1,0.870436745492423,74.7,2,High Risk,13,Immediate Action,896.4000000000001,New,Assign Customer Success Manager
+7996-BPXHY,0,0.03239707108758864,25.0,13,Low Risk,97,Healthy,0.0,Growing,Upsell Opportunity
+4248-QPAVC,1,0.6978066537079922,85.35,17,High Risk,30,Monitor Closely,1024.1999999999998,Growing,Launch Retention Campaign
+9357-UJRUN,0,0.34226387295914906,58.35,24,Moderate Risk,66,Nurture,0.0,Growing,Increase Feature Adoption
+6340-DACFT,0,0.005857408363429143,20.55,50,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+1023-BQXZE,0,0.07628766403047589,74.35,57,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+5480-HPRRX,1,0.7641335781248391,25.3,3,High Risk,24,Monitor Closely,303.6,New,Launch Retention Campaign
+9576-SYUHJ,0,0.6827824621769563,91.15,37,High Risk,32,Monitor Closely,1093.8000000000002,Established,Launch Retention Campaign
+2169-RRLFW,0,0.02398307064812438,25.6,71,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+8338-QIUNR,0,0.04404581927532081,66.5,72,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+0463-TXOAK,0,0.0061125772109541674,25.6,52,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4396-KLSEH,0,0.5933013741751734,19.85,4,Moderate Risk,41,Nurture,0.0,New,Increase Feature Adoption
+5186-EJEGL,0,0.48545566129056356,69.5,9,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+9334-GWGOW,0,0.9157237204093889,74.85,7,High Risk,8,Immediate Action,898.1999999999999,New,Assign Customer Success Manager
+5696-JVVQY,0,0.01842792706799064,70.1,48,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+9633-DENPU,0,0.4109134773187711,58.6,47,Moderate Risk,59,Nurture,0.0,Established,Increase Feature Adoption
+0581-BXBUB,0,0.7826600856275593,72.75,4,High Risk,22,Monitor Closely,873.0,New,Launch Retention Campaign
+2750-BJLSB,0,0.4045079017536238,103.7,47,Moderate Risk,60,Nurture,0.0,Established,Increase Feature Adoption
+2770-NSVDG,0,0.6299975728284408,29.1,24,High Risk,37,Monitor Closely,349.20000000000005,Growing,Launch Retention Campaign
+8280-MQRQN,1,0.7560064354731094,50.45,1,High Risk,24,Monitor Closely,605.4000000000001,New,Launch Retention Campaign
+7851-FLGGQ,1,0.824059017449829,44.65,1,High Risk,18,Immediate Action,535.8,New,Assign Customer Success Manager
+9374-YOLBJ,0,0.24924557768202285,19.25,1,Low Risk,75,Healthy,0.0,New,Upsell Opportunity
+6583-SZVGP,0,0.2847259665292198,108.1,48,Low Risk,72,Healthy,0.0,Established,Upsell Opportunity
+2150-OEGBV,0,0.09248793836209045,20.1,27,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+9372-TXXPS,0,0.028125214262148923,59.85,60,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+6933-FHBZC,0,0.17895714567331947,56.05,26,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+4698-KVLLG,0,0.023281007930156482,19.6,51,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+8752-STIVR,1,0.8980384456062298,79.0,4,High Risk,10,Immediate Action,948.0,New,Assign Customer Success Manager
+8623-ULFNQ,0,0.5894634318666586,66.05,26,Moderate Risk,41,Nurture,0.0,Established,Increase Feature Adoption
+9822-WMWVG,0,0.5835375479943471,106.5,41,Moderate Risk,42,Nurture,0.0,Established,Increase Feature Adoption
+4304-TSPVK,0,0.14854125558961906,114.9,68,Low Risk,85,Healthy,0.0,Loyal,Upsell Opportunity
+1716-LSAMB,0,0.008087140855607617,54.65,45,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+3523-QRQLL,1,0.4185227458427354,69.5,22,Moderate Risk,58,Nurture,0.0,Growing,Increase Feature Adoption
+2187-PKZAY,0,0.7474747971526293,79.95,12,High Risk,25,Monitor Closely,959.4000000000001,New,Launch Retention Campaign
+1895-QTKDO,0,0.6923013176845799,43.95,1,High Risk,31,Monitor Closely,527.4000000000001,New,Launch Retention Campaign
+8161-QYMTT,0,0.9131429430636687,94.1,7,High Risk,9,Immediate Action,1129.1999999999998,New,Assign Customer Success Manager
+2955-PSXOE,1,0.5374991710695289,20.2,1,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+6834-NXDCA,1,0.7053862539814837,23.9,13,High Risk,29,Monitor Closely,286.79999999999995,Growing,Launch Retention Campaign
+8701-DGLVH,0,0.022151102885543932,20.45,51,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+2480-SQIOB,0,0.3553404969654336,44.8,4,Moderate Risk,64,Nurture,0.0,New,Increase Feature Adoption
+4993-JCRGJ,0,0.5840837203980502,84.3,26,Moderate Risk,42,Nurture,0.0,Established,Increase Feature Adoption
+0581-MDMPW,0,0.7495248677250349,88.95,24,High Risk,25,Monitor Closely,1067.4,Growing,Launch Retention Campaign
+7789-CRUVC,0,0.4139476680286094,94.2,61,Moderate Risk,59,Nurture,0.0,Loyal,Increase Feature Adoption
+0164-APGRB,0,0.1869837600166702,114.9,72,Low Risk,81,Healthy,0.0,Loyal,Upsell Opportunity
+8034-RYTVV,0,0.2697978316630036,84.25,55,Low Risk,73,Healthy,0.0,Loyal,Upsell Opportunity
+3018-TFTSU,1,0.6291530641280607,81.7,12,High Risk,37,Monitor Closely,980.4000000000001,New,Launch Retention Campaign
+9777-IQHWP,0,0.03933845219625878,93.4,64,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+6899-PPEEA,1,0.8003766714341807,96.55,37,High Risk,20,Immediate Action,1158.6,Established,Assign Customer Success Manager
+6701-YVNQG,0,0.08741266041302087,88.7,72,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+7649-PHJVR,0,0.17872267537774958,19.5,11,Low Risk,82,Healthy,0.0,New,Upsell Opportunity
+9278-VZKCD,0,0.7608557990555045,109.1,52,High Risk,24,Monitor Closely,1309.1999999999998,Loyal,Launch Retention Campaign
+7636-PEPNS,0,0.03616721214687565,44.1,58,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+1575-KRZZE,0,0.5533617356638697,55.2,4,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+8590-OHDIW,0,0.019525092507227854,20.3,38,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+7764-BDPEE,0,0.11876883789207587,20.85,3,Low Risk,88,Healthy,0.0,New,Upsell Opportunity
+9480-BQJEI,0,0.3110282455399676,92.3,62,Moderate Risk,69,Nurture,0.0,Loyal,Increase Feature Adoption
+3354-OADJP,0,0.19708771001638367,54.25,8,Low Risk,80,Healthy,0.0,New,Upsell Opportunity
+3181-MIZBN,0,0.1133027563997788,19.75,16,Low Risk,89,Healthy,0.0,Growing,Upsell Opportunity
+9327-QSDED,0,0.5447008059415864,43.55,8,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+4892-VLANZ,1,0.4666066765815948,19.8,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+0298-XACET,0,0.01895248926803039,50.2,52,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6917-FIJHC,0,0.03292635087230431,26.0,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+6557-BZXLQ,0,0.6986953754174996,69.65,16,High Risk,30,Monitor Closely,835.8000000000001,Growing,Launch Retention Campaign
+2432-TFSMK,0,0.5731501013952325,89.6,18,Moderate Risk,43,Nurture,0.0,Growing,Increase Feature Adoption
+4211-MMAZN,1,0.4633598509764684,20.25,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+4751-ERMAN,0,0.09258225922140077,75.4,72,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+8430-TWCBX,0,0.0673029702052344,20.7,49,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+1942-OQFRW,0,0.7681689672574262,44.0,1,High Risk,23,Monitor Closely,528.0,New,Launch Retention Campaign
+4075-JFPGR,0,0.42200153482606634,93.5,51,Moderate Risk,58,Nurture,0.0,Loyal,Increase Feature Adoption
+3339-EAQNV,0,0.49649231659586807,97.25,72,Moderate Risk,50,Nurture,0.0,Loyal,Increase Feature Adoption
+5329-KRDTM,0,0.0565515072167859,77.35,72,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+0307-BCOPK,0,0.12318029986689909,19.05,16,Low Risk,88,Healthy,0.0,Growing,Upsell Opportunity
+6473-ULUHT,0,0.2069671858206578,84.9,16,Low Risk,79,Healthy,0.0,Growing,Upsell Opportunity
+1194-SPVSP,0,0.4675016862769642,19.65,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+7249-WBIYX,1,0.9190977139082301,85.6,10,High Risk,8,Immediate Action,1027.1999999999998,New,Assign Customer Success Manager
+2293-IJWPS,0,0.5223236278156869,100.75,57,Moderate Risk,48,Nurture,0.0,Loyal,Increase Feature Adoption
+4377-VDHYI,0,0.13943143450540046,90.8,32,Low Risk,86,Healthy,0.0,Established,Upsell Opportunity
+0019-EFAEP,0,0.12566004268502085,101.3,72,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+2480-EJWYP,0,0.5697719137089171,97.8,58,Moderate Risk,43,Nurture,0.0,Loyal,Increase Feature Adoption
+8970-ANWXO,0,0.3551020535162973,73.75,23,Moderate Risk,64,Nurture,0.0,Growing,Increase Feature Adoption
+8739-WWKDU,1,0.7931150484383181,89.5,25,High Risk,21,Monitor Closely,1074.0,Established,Launch Retention Campaign
+2171-UDMFD,0,0.06916563034202174,19.45,32,Low Risk,93,Healthy,0.0,Established,Upsell Opportunity
+7036-TYDEC,0,0.22433813460264065,104.0,69,Low Risk,78,Healthy,0.0,Loyal,Upsell Opportunity
+3831-YCPUO,0,0.0304907119118341,109.5,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+0121-SNYRK,0,0.12192835674867437,35.4,50,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+3325-FUYCG,1,0.5994210718361968,106.1,28,Moderate Risk,40,Nurture,0.0,Established,Increase Feature Adoption
+1952-DVVSW,0,0.23901898875261923,20.1,10,Low Risk,76,Healthy,0.0,New,Upsell Opportunity
+3571-DPYUH,0,0.11002755384756836,94.7,58,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+2077-MPJQO,0,0.899719293168957,75.4,7,High Risk,10,Immediate Action,904.8000000000001,New,Assign Customer Success Manager
+2391-SOORI,1,0.19786764028812592,49.35,4,Low Risk,80,Healthy,0.0,New,Upsell Opportunity
+4086-ATNFV,0,0.037956594279701675,60.8,34,Low Risk,96,Healthy,0.0,Established,Upsell Opportunity
+3396-DKDEL,0,0.04153475255159464,115.15,70,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+7471-MQPOS,0,0.041586152593577765,72.9,71,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+7181-OQCUT,0,0.6742581912240704,103.85,21,High Risk,33,Monitor Closely,1246.1999999999998,Growing,Launch Retention Campaign
+3489-VSFRD,0,0.0746516606209442,60.25,56,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+6283-GITPX,0,0.005684189239230758,76.9,71,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+2845-HSJCY,1,0.8759785252619865,87.25,14,High Risk,12,Immediate Action,1047.0,Growing,Assign Customer Success Manager
+7216-KAOID,0,0.018672637934399165,19.5,41,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+6680-WKXRZ,1,0.8381991180966174,74.4,3,High Risk,16,Immediate Action,892.8000000000001,New,Assign Customer Success Manager
+2346-LOCWC,0,0.004796185206996672,20.5,58,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+0769-MURVM,0,0.012775981514199234,65.7,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+3374-LXDEV,1,0.6710845910975177,89.4,13,High Risk,33,Monitor Closely,1072.8000000000002,Growing,Launch Retention Campaign
+5318-YKDPV,0,0.09660410849989268,79.15,43,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+8190-ZTQFB,0,0.4522878290478917,51.35,41,Moderate Risk,55,Nurture,0.0,Established,Increase Feature Adoption
+4512-ZUIYL,1,0.7876591955970705,70.0,2,High Risk,21,Monitor Closely,840.0,New,Launch Retention Campaign
+3090-QFUVD,0,0.45723669556647983,20.3,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+4806-KEXQR,1,0.8885883645125208,79.9,4,High Risk,11,Immediate Action,958.8000000000001,New,Assign Customer Success Manager
+2369-FEVNO,0,0.545466796170609,19.9,1,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+9637-CDTKZ,0,0.20034629974495416,114.1,72,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+2954-PIBKO,0,0.05201752277271167,64.15,69,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+2212-LYASK,0,0.42034035453517404,45.85,27,Moderate Risk,58,Nurture,0.0,Established,Increase Feature Adoption
+9481-SFCQY,0,0.19044909465155893,59.8,14,Low Risk,81,Healthy,0.0,Growing,Upsell Opportunity
+2828-SLQPF,0,0.4401303280469298,45.0,19,Moderate Risk,56,Nurture,0.0,Growing,Increase Feature Adoption
+4647-MUZON,0,0.7879273697880601,95.95,18,High Risk,21,Monitor Closely,1151.4,Growing,Launch Retention Campaign
+8212-DJRCH,0,0.5133892118848654,90.35,5,Moderate Risk,49,Nurture,0.0,New,Increase Feature Adoption
+0516-OOHAR,0,0.15397691009968204,100.35,28,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+4973-RLZVI,0,0.1003004054598701,74.65,30,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+8089-UZWLX,0,0.17090892227685162,104.05,71,Low Risk,83,Healthy,0.0,Loyal,Upsell Opportunity
+9732-KPKBW,1,0.7353766386362126,53.95,1,High Risk,26,Monitor Closely,647.4000000000001,New,Launch Retention Campaign
+9715-WZCLW,0,0.09020858192953514,97.2,71,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+0257-KXZGU,0,0.10650002582056287,62.45,32,Low Risk,89,Healthy,0.0,Established,Upsell Opportunity
+0707-HOVVN,0,0.06003460578094904,75.5,70,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+5501-TVMGM,0,0.8693156486148256,55.25,1,High Risk,13,Immediate Action,663.0,New,Assign Customer Success Manager
+3422-LYEPQ,1,0.9420665995101504,71.0,1,High Risk,6,Immediate Action,852.0,New,Assign Customer Success Manager
+2277-VWCNI,0,0.6903565516031651,48.75,4,High Risk,31,Monitor Closely,585.0,New,Launch Retention Campaign
+5461-QKNTN,0,0.7436134989346629,94.3,43,High Risk,26,Monitor Closely,1131.6,Established,Launch Retention Campaign
+3967-KXAPS,0,0.05585247501817072,92.3,72,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+6919-ELBGL,0,0.19830721281571376,114.95,72,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+8361-LTMKD,1,0.8877694867130544,74.4,4,High Risk,11,Immediate Action,892.8000000000001,New,Assign Customer Success Manager
+1131-ALZWV,0,0.13546731057201997,24.6,24,Low Risk,86,Healthy,0.0,Growing,Upsell Opportunity
+5178-LMXOP,1,0.9828618324168764,95.1,1,High Risk,2,Immediate Action,1141.1999999999998,New,Assign Customer Success Manager
+8992-CEUEN,0,0.5588501235925472,18.85,1,Moderate Risk,44,Nurture,0.0,New,Increase Feature Adoption
+3320-VEOYC,0,0.8865563543615842,95.6,14,High Risk,11,Immediate Action,1147.1999999999998,Growing,Assign Customer Success Manager
+3672-YITQD,1,0.8235346568133121,84.1,36,High Risk,18,Immediate Action,1009.1999999999999,Established,Assign Customer Success Manager
+6080-TCMYC,0,0.346736830059482,81.2,40,Moderate Risk,65,Nurture,0.0,Established,Increase Feature Adoption
+6734-FQAJX,0,0.15009989120839454,105.05,67,Low Risk,85,Healthy,0.0,Loyal,Upsell Opportunity
+1063-DHQJF,0,0.025949528297681563,92.15,69,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+3976-NLDEZ,0,0.46083667406626555,20.6,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+1729-VLAZJ,0,0.060856688418196234,40.25,10,Low Risk,94,Healthy,0.0,New,Upsell Opportunity
+3400-ESFUW,1,0.0348902569705393,57.55,55,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+5271-YNWVR,1,0.26519116454818953,113.15,68,Low Risk,73,Healthy,0.0,Loyal,Upsell Opportunity
+1587-FKLZB,1,0.7092129121903041,99.5,66,High Risk,29,Monitor Closely,1194.0,Loyal,Launch Retention Campaign
+0958-YHXGP,0,0.7641573800329016,69.9,7,High Risk,24,Monitor Closely,838.8000000000001,New,Launch Retention Campaign
+1494-EJZDW,0,0.02341359013650078,20.15,10,Low Risk,98,Healthy,0.0,New,Upsell Opportunity
+1816-FLZDK,0,0.7075241307812066,29.15,1,High Risk,29,Monitor Closely,349.79999999999995,New,Launch Retention Campaign
+2075-PUEPR,0,0.005356015495692839,19.35,55,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+1833-TCXKK,0,0.7375125189113926,107.75,45,High Risk,26,Monitor Closely,1293.0,Established,Launch Retention Campaign
+1436-ZMJAN,0,0.7886175930710836,67.8,10,High Risk,21,Monitor Closely,813.5999999999999,New,Launch Retention Campaign
+0106-UGRDO,0,0.2397033622242879,116.0,69,Low Risk,76,Healthy,0.0,Loyal,Upsell Opportunity
+1069-XAIEM,1,0.9654937318838495,85.05,1,High Risk,3,Immediate Action,1020.5999999999999,New,Assign Customer Success Manager
+4213-HKBJO,0,0.04967520225970773,25.7,33,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+8345-MVDYC,0,0.0525874127537667,81.65,45,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+2672-OJQZP,0,0.6874575264990312,44.75,1,High Risk,31,Monitor Closely,537.0,New,Launch Retention Campaign
+5136-RGMZO,0,0.508958862777887,71.05,31,Moderate Risk,49,Nurture,0.0,Established,Increase Feature Adoption
+5774-QPLTF,0,0.020059149007305446,20.35,50,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+5240-CAOYT,0,0.3831707920981704,87.55,57,Moderate Risk,62,Nurture,0.0,Loyal,Increase Feature Adoption
+3707-GNWHM,1,0.9288306034132388,74.25,1,High Risk,7,Immediate Action,891.0,New,Assign Customer Success Manager
+5159-YFPKQ,1,0.8797173810904418,75.8,2,High Risk,12,Immediate Action,909.5999999999999,New,Assign Customer Success Manager
+5052-PNLOS,1,0.916604353229735,105.35,3,High Risk,8,Immediate Action,1264.1999999999998,New,Assign Customer Success Manager
+6173-GOLSU,0,0.733643935877838,94.65,67,High Risk,27,Monitor Closely,1135.8000000000002,Loyal,Launch Retention Campaign
+6661-HBGWL,1,0.7221311275919228,104.75,42,High Risk,28,Monitor Closely,1257.0,Established,Launch Retention Campaign
+8207-VVMYB,0,0.03205069981325313,26.0,70,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+5324-KTGCG,0,0.05405817526849953,20.85,71,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+7354-OIJLX,0,0.8370505919954109,75.85,9,High Risk,16,Immediate Action,910.1999999999999,New,Assign Customer Success Manager
+9286-BHDQG,0,0.031893767438051446,45.25,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+3567-PQTSO,0,0.2549898895276246,105.25,53,Low Risk,75,Healthy,0.0,Loyal,Upsell Opportunity
+3197-ARFOY,0,0.5864544596343296,105.0,19,Moderate Risk,41,Nurture,0.0,Growing,Increase Feature Adoption
+5698-BQJOH,1,0.5988694483984235,94.4,9,Moderate Risk,40,Nurture,0.0,New,Increase Feature Adoption
+1090-ESELR,0,0.10039823881086005,105.5,72,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+0056-EPFBG,0,0.03256285647593262,39.4,20,Low Risk,97,Healthy,0.0,Growing,Upsell Opportunity
+4955-VCWBI,0,0.01737111429935616,20.0,43,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+4717-GHADL,0,0.11191582523457905,79.6,50,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+0058-EVZWM,0,0.6006882321985857,89.8,55,High Risk,40,Monitor Closely,1077.6,Loyal,Launch Retention Campaign
+7218-HKQFK,1,0.957788731564509,94.2,2,High Risk,4,Immediate Action,1130.4,New,Assign Customer Success Manager
+5057-RKGLH,0,0.02468884095685801,20.35,9,Low Risk,98,Healthy,0.0,New,Upsell Opportunity
+2309-OSFEU,1,0.7836516626055245,33.9,10,High Risk,22,Monitor Closely,406.79999999999995,New,Launch Retention Campaign
+3429-IFLEM,0,0.02008834048483214,77.35,71,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+1550-LOAHA,1,0.6233797782425421,84.15,32,High Risk,38,Monitor Closely,1009.8000000000001,Established,Launch Retention Campaign
+1400-MMYXY,1,0.9525755713433445,105.9,3,High Risk,5,Immediate Action,1270.8000000000002,New,Assign Customer Success Manager
+7503-QQRVF,1,0.7014189927984014,74.3,16,High Risk,30,Monitor Closely,891.5999999999999,Growing,Launch Retention Campaign
+7504-UWHNB,0,0.6177344183553095,69.75,25,High Risk,38,Monitor Closely,837.0,Established,Launch Retention Campaign
+9565-JSNFM,1,0.3301806241589953,70.45,38,Moderate Risk,67,Nurture,0.0,Established,Increase Feature Adoption
+4735-BJKOU,0,0.029538343676076165,20.15,40,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+3580-GICBM,0,0.009278941144253079,24.2,61,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+7632-YUTXB,0,0.02725835291660636,20.05,25,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+9412-ARGBX,1,0.13120185798156497,95.5,48,Low Risk,87,Healthy,0.0,Established,Upsell Opportunity
+9576-ANLXO,1,0.8130121024009151,69.55,3,High Risk,19,Immediate Action,834.5999999999999,New,Assign Customer Success Manager
+1110-KYLGQ,0,0.5039165142815587,108.25,63,Moderate Risk,50,Nurture,0.0,Loyal,Increase Feature Adoption
+8696-JKZNU,1,0.6841112892098514,76.25,37,High Risk,32,Monitor Closely,915.0,Established,Launch Retention Campaign
+8757-TFHHJ,0,0.7019582125335961,49.8,1,High Risk,30,Monitor Closely,597.5999999999999,New,Launch Retention Campaign
+2955-BJZHG,1,0.7526078917110156,80.85,17,High Risk,25,Monitor Closely,970.1999999999999,Growing,Launch Retention Campaign
+9048-JVYVF,1,0.8351439579869202,69.35,3,High Risk,16,Immediate Action,832.1999999999999,New,Assign Customer Success Manager
+0682-USIXD,0,0.7407255429416487,86.05,21,High Risk,26,Monitor Closely,1032.6,Growing,Launch Retention Campaign
+3884-UEBXB,0,0.008267609638661645,36.15,67,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+1776-SPBWV,0,0.029546174665266867,20.1,34,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+9050-QLROH,1,0.76646937983602,90.7,18,High Risk,23,Monitor Closely,1088.4,Growing,Launch Retention Campaign
+2925-VDZHY,0,0.012713223257567798,88.7,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+9512-UIBFX,1,0.7260032588078701,95.15,18,High Risk,27,Monitor Closely,1141.8000000000002,Growing,Launch Retention Campaign
+8676-TRMJS,1,0.847249722240704,75.0,3,High Risk,15,Immediate Action,900.0,New,Assign Customer Success Manager
+3334-CTHOL,1,0.8176128415990725,49.95,1,High Risk,18,Immediate Action,599.4000000000001,New,Assign Customer Success Manager
+6331-LWDTQ,1,0.712121396207802,72.15,10,High Risk,29,Monitor Closely,865.8000000000001,New,Launch Retention Campaign
+3847-BAERP,0,0.37847068256459687,20.9,10,Moderate Risk,62,Nurture,0.0,New,Increase Feature Adoption
+4709-LKHYG,0,0.1635302221836437,20.0,29,Low Risk,84,Healthy,0.0,Established,Upsell Opportunity
+8621-MNIHH,1,0.8060708562652522,94.25,34,High Risk,19,Immediate Action,1131.0,Established,Assign Customer Success Manager
+8884-ADFVN,1,0.9412744037790131,101.95,7,High Risk,6,Immediate Action,1223.4,New,Assign Customer Success Manager
+2885-HIJDH,0,0.012675969612191503,86.9,69,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+8570-KLJYJ,0,0.15084558710828289,54.45,36,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+9339-FIIJL,0,0.07862716492303323,85.95,72,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+6223-DHJGV,0,0.07854698656155143,20.65,42,Low Risk,92,Healthy,0.0,Established,Upsell Opportunity
+0959-WHOKV,0,0.4416914049693152,99.0,42,Moderate Risk,56,Nurture,0.0,Established,Increase Feature Adoption
+9610-WCESF,0,0.054029788431408335,43.9,67,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+9279-CJEOJ,0,0.7935702221626834,95.4,21,High Risk,21,Monitor Closely,1144.8000000000002,Growing,Launch Retention Campaign
+2985-FMWYF,0,0.8207316133052982,93.5,23,High Risk,18,Immediate Action,1122.0,Growing,Assign Customer Success Manager
+3540-RZJYU,1,0.6408151278198331,86.2,15,High Risk,36,Monitor Closely,1034.4,Growing,Launch Retention Campaign
+2522-WLNSF,0,0.2069699272053155,64.2,34,Low Risk,79,Healthy,0.0,Established,Upsell Opportunity
+6861-XWTWQ,1,0.9500832674774564,99.25,7,High Risk,5,Immediate Action,1191.0,New,Assign Customer Success Manager
+8735-NBLWT,0,0.09383781782099572,20.4,9,Low Risk,91,Healthy,0.0,New,Upsell Opportunity
+1744-JHKYS,0,0.3609811699286696,24.7,34,Moderate Risk,64,Nurture,0.0,Established,Increase Feature Adoption
+0841-NULXI,1,0.8971954450638663,35.55,1,High Risk,10,Immediate Action,426.59999999999997,New,Assign Customer Success Manager
+4016-BJKTZ,0,0.3109350155799506,108.9,25,Moderate Risk,69,Nurture,0.0,Established,Increase Feature Adoption
+9298-WGMRW,0,0.18423100739370202,115.5,72,Low Risk,82,Healthy,0.0,Loyal,Upsell Opportunity
+7893-IXHRQ,1,0.5522653529885214,20.55,1,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+8785-CJSHH,0,0.7802592859657869,99.8,60,High Risk,22,Monitor Closely,1197.6,Loyal,Launch Retention Campaign
+7654-YWJUF,0,0.2600693042315488,84.25,43,Low Risk,74,Healthy,0.0,Established,Upsell Opportunity
+8909-BOLNL,0,0.2423834512408415,21.2,3,Low Risk,76,Healthy,0.0,New,Upsell Opportunity
+9919-FZDED,0,0.11029466835289611,84.1,72,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+0322-CHQRU,1,0.7119819364176333,45.35,2,High Risk,29,Monitor Closely,544.2,New,Launch Retention Campaign
+3587-PMCOY,0,0.656913882933896,98.9,10,High Risk,34,Monitor Closely,1186.8000000000002,New,Launch Retention Campaign
+0655-RBDUG,1,0.8888086647846529,98.05,7,High Risk,11,Immediate Action,1176.6,New,Assign Customer Success Manager
+0983-TATYJ,0,0.18085676809645626,51.45,33,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+5650-YLIBA,0,0.666566751179804,81.15,31,High Risk,33,Monitor Closely,973.8000000000001,Established,Launch Retention Campaign
+5144-TVGLP,0,0.7529821740748986,94.75,38,High Risk,25,Monitor Closely,1137.0,Established,Launch Retention Campaign
+3569-EDBPQ,0,0.644837577711451,84.35,24,High Risk,36,Monitor Closely,1012.1999999999999,Growing,Launch Retention Campaign
+4945-RVMTE,0,0.45843909535004673,59.55,28,Moderate Risk,54,Nurture,0.0,Established,Increase Feature Adoption
+3511-BFTJW,0,0.008388007845034871,38.5,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+5537-UXXVS,0,0.2885584426837755,19.25,20,Low Risk,71,Healthy,0.0,Growing,Upsell Opportunity
+8782-NUUOL,0,0.09409380433383702,79.0,60,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+2865-TCHJW,1,0.9265412139844384,89.2,4,High Risk,7,Immediate Action,1070.4,New,Assign Customer Success Manager
+9931-KGHOA,0,0.2971922910077961,55.0,46,Low Risk,70,Healthy,0.0,Established,Upsell Opportunity
+3071-MVJCD,0,0.04106798906248729,82.3,72,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+7279-BUYWN,1,0.6937775278937741,113.2,41,High Risk,31,Monitor Closely,1358.4,Established,Launch Retention Campaign
+3756-VNWDH,0,0.5309281922157526,100.75,65,Moderate Risk,47,Nurture,0.0,Loyal,Increase Feature Adoption
+1395-OFUWC,0,0.111168965207159,29.3,43,Low Risk,89,Healthy,0.0,Established,Upsell Opportunity
+4223-BKEOR,0,0.18968983174129742,64.85,21,Low Risk,81,Healthy,0.0,Growing,Upsell Opportunity
+0040-HALCW,0,0.0055272738559175956,20.4,54,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+7124-UGSUR,1,0.5247678994301717,104.4,61,Moderate Risk,48,Nurture,0.0,Loyal,Increase Feature Adoption
+7395-XWZOY,0,0.4269425993315993,55.0,20,Moderate Risk,57,Nurture,0.0,Growing,Increase Feature Adoption
+5440-VHLUL,0,0.3431965871510186,105.2,69,Moderate Risk,66,Nurture,0.0,Loyal,Increase Feature Adoption
+4706-DGAHW,0,0.767132171483546,45.2,1,High Risk,23,Monitor Closely,542.4000000000001,New,Launch Retention Campaign
+8166-ORCHU,0,0.43936737839862716,93.55,33,Moderate Risk,56,Nurture,0.0,Established,Increase Feature Adoption
+3978-YNKDD,0,0.009574519809531612,20.85,19,Low Risk,99,Healthy,0.0,Growing,Upsell Opportunity
+7198-GLXTC,1,0.9109026500203214,79.0,2,High Risk,9,Immediate Action,948.0,New,Assign Customer Success Manager
+6366-XIVKZ,0,0.20300708372458642,63.15,13,Low Risk,80,Healthy,0.0,Growing,Upsell Opportunity
+5133-POWUA,0,0.7501638938413211,45.8,1,High Risk,25,Monitor Closely,549.5999999999999,New,Launch Retention Campaign
+8400-WZICQ,0,0.05368627932958496,55.7,55,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+5382-SOYZL,0,0.8373118869598961,95.1,22,High Risk,16,Immediate Action,1141.1999999999998,Growing,Assign Customer Success Manager
+1989-PRJHP,1,0.8165319762982245,75.5,27,High Risk,18,Immediate Action,906.0,Established,Assign Customer Success Manager
+4154-AQUGT,1,0.7148092709721744,89.05,13,High Risk,29,Monitor Closely,1068.6,Growing,Launch Retention Campaign
+0980-FEXWF,0,0.05289407891322244,50.35,26,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+5845-BZZIB,0,0.00975106683688697,20.1,35,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+4840-ORQXB,0,0.6805452407478473,104.75,56,High Risk,32,Monitor Closely,1257.0,Loyal,Launch Retention Campaign
+0295-PPHDO,1,0.9759948353101082,95.45,1,High Risk,2,Immediate Action,1145.4,New,Assign Customer Success Manager
+8775-ERLNB,0,0.9501472550602974,74.3,1,High Risk,5,Immediate Action,891.5999999999999,New,Assign Customer Success Manager
+0376-YMCJC,1,0.7800817861636059,90.6,23,High Risk,22,Monitor Closely,1087.1999999999998,Growing,Launch Retention Campaign
+7410-YTJIK,1,0.7948248892455855,75.45,7,High Risk,21,Monitor Closely,905.4000000000001,New,Launch Retention Campaign
+9927-DSWDF,0,0.7563594765431333,104.6,22,High Risk,24,Monitor Closely,1255.1999999999998,Growing,Launch Retention Campaign
+6681-ZSEXG,0,0.07289822136021136,59.5,56,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+5702-KVQRD,0,0.08273250877993205,82.55,71,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+8711-LOBKY,0,0.004857850910867852,19.85,59,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+9692-TUSXH,1,0.743529659732935,96.05,18,High Risk,26,Monitor Closely,1152.6,Growing,Launch Retention Campaign
+4012-YCFAI,0,0.03480639073721305,61.35,60,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+8455-HIRAQ,0,0.5073231703782479,44.45,8,Moderate Risk,49,Nurture,0.0,New,Increase Feature Adoption
+7853-WNZSY,0,0.546405963966912,19.75,1,Moderate Risk,45,Nurture,0.0,New,Increase Feature Adoption
+0390-DCFDQ,1,0.6928270768758954,70.45,1,High Risk,31,Monitor Closely,845.4000000000001,New,Launch Retention Campaign
+6421-SZVEM,0,0.14060985738486975,82.85,28,Low Risk,86,Healthy,0.0,Established,Upsell Opportunity
+3094-JOJAI,0,0.6259665661497532,74.15,18,High Risk,37,Monitor Closely,889.8000000000001,Growing,Launch Retention Campaign
+4873-ILOLJ,1,0.7774658041195136,90.35,24,High Risk,22,Monitor Closely,1084.1999999999998,Growing,Launch Retention Campaign
+8181-YHCMF,0,0.08547342126355298,60.3,68,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+3324-OIRTO,0,0.09021374133872447,104.65,71,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+9135-HSWOC,0,0.005848117927250468,19.7,64,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+2272-WUSPA,0,0.3048641276428406,110.75,72,Moderate Risk,70,Nurture,0.0,Loyal,Increase Feature Adoption
+4627-MIHJH,0,0.12837708135659961,110.25,69,Low Risk,87,Healthy,0.0,Loyal,Upsell Opportunity
+3896-RCYYE,0,0.3737999152417664,53.4,67,Moderate Risk,63,Nurture,0.0,Loyal,Increase Feature Adoption
+6729-GDNGC,0,0.6042239504840603,80.7,20,High Risk,40,Monitor Closely,968.4000000000001,Growing,Launch Retention Campaign
+9945-PSVIP,0,0.019249427050800967,18.7,25,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+4137-JOPHL,0,0.15823001631887026,89.7,50,Low Risk,84,Healthy,0.0,Loyal,Upsell Opportunity
+2720-FVBQP,0,0.4051879782239127,48.95,6,Moderate Risk,59,Nurture,0.0,New,Increase Feature Adoption
+7854-EKTJL,1,0.2322025586538145,19.6,2,Low Risk,77,Healthy,0.0,New,Upsell Opportunity
+1133-KXCGE,0,0.10948683409337476,20.1,18,Low Risk,89,Healthy,0.0,Growing,Upsell Opportunity
+6048-QBXKL,0,0.7400129750343916,56.55,2,High Risk,26,Monitor Closely,678.5999999999999,New,Launch Retention Campaign
+6338-AVWCY,1,0.7992565375583391,40.15,3,High Risk,20,Monitor Closely,481.79999999999995,New,Launch Retention Campaign
+0013-MHZWF,0,0.30548914086089396,69.4,9,Moderate Risk,69,Nurture,0.0,New,Increase Feature Adoption
+9804-ICWBG,1,0.9278321487963288,69.9,1,High Risk,7,Immediate Action,838.8000000000001,New,Assign Customer Success Manager
+2368-GAKKQ,0,0.15421034636963565,113.65,70,Low Risk,85,Healthy,0.0,Loyal,Upsell Opportunity
+4829-AUOAX,1,0.6357694717977781,96.05,46,High Risk,36,Monitor Closely,1152.6,Established,Launch Retention Campaign
+7876-BEUTG,0,0.5687523205558931,48.8,15,Moderate Risk,43,Nurture,0.0,Growing,Increase Feature Adoption
+6349-JDHQP,0,0.02096607136519766,19.85,53,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+3063-QFSZL,1,0.8662191084392661,55.4,1,High Risk,13,Immediate Action,664.8,New,Assign Customer Success Manager
+9142-XMYJH,0,0.17956452845066667,19.35,29,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+2609-IAICY,1,0.9441423731526918,77.15,1,High Risk,6,Immediate Action,925.8000000000001,New,Assign Customer Success Manager
+8626-PTQGE,0,0.06482802978805963,60.05,69,Low Risk,94,Healthy,0.0,Loyal,Upsell Opportunity
+0230-UBYPQ,0,0.0884274499686807,36.1,63,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+6814-ZPWFQ,0,0.07349543608062033,25.0,51,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+5921-NGYRH,0,0.4011953167054154,73.55,64,Moderate Risk,60,Nurture,0.0,Loyal,Increase Feature Adoption
+7803-XOCCZ,0,0.11360605508166374,84.05,52,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+1459-QNFQT,0,0.07117719123655082,59.5,70,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+3948-FVVRP,0,0.17394890331092033,54.8,9,Low Risk,83,Healthy,0.0,New,Upsell Opportunity
+0923-PNFUB,1,0.8658945972239641,83.75,3,High Risk,13,Immediate Action,1005.0,New,Assign Customer Success Manager
+4654-ULTTN,0,0.06514615817303586,74.8,70,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+5628-FCGYG,0,0.8243230780742148,84.1,21,High Risk,18,Immediate Action,1009.1999999999999,Growing,Assign Customer Success Manager
+0506-LVNGN,1,0.8090069857814596,75.55,5,High Risk,19,Immediate Action,906.5999999999999,New,Assign Customer Success Manager
+4329-YPDDQ,0,0.5850200771519444,108.2,20,Moderate Risk,41,Nurture,0.0,Growing,Increase Feature Adoption
+9866-OCCKE,0,0.19714002276421308,109.75,72,Low Risk,80,Healthy,0.0,Loyal,Upsell Opportunity
+0794-YVSGE,0,0.003416605149485269,20.3,72,Low Risk,100,Healthy,0.0,Loyal,Upsell Opportunity
+4342-HENTK,1,0.8900686618306353,70.65,2,High Risk,11,Immediate Action,847.8000000000001,New,Assign Customer Success Manager
+5934-TSSAU,0,0.284099146307566,75.3,23,Low Risk,72,Healthy,0.0,Growing,Upsell Opportunity
+9986-BONCE,1,0.3809370903827219,20.95,4,Moderate Risk,62,Nurture,0.0,New,Increase Feature Adoption
+5301-GAUUY,1,0.6041052947401152,80.35,32,High Risk,40,Monitor Closely,964.1999999999999,Established,Launch Retention Campaign
+0725-CXOTM,0,0.19159906551708666,89.65,36,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+2843-CQMEG,0,0.3808758784441226,49.7,24,Moderate Risk,62,Nurture,0.0,Growing,Increase Feature Adoption
+5600-PDUJF,0,0.5398340818368155,49.5,6,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+4500-HKANN,0,0.10893587311576218,59.7,23,Low Risk,89,Healthy,0.0,Growing,Upsell Opportunity
+1862-QRWPE,0,0.030395343743726544,20.65,48,Low Risk,97,Healthy,0.0,Established,Upsell Opportunity
+2155-AMQRX,0,0.40655773584315397,54.9,28,Moderate Risk,59,Nurture,0.0,Established,Increase Feature Adoption
+0823-HSCDJ,1,0.5926543817568815,49.15,52,Moderate Risk,41,Nurture,0.0,Loyal,Increase Feature Adoption
+4090-KPJIP,0,0.9129037937413558,74.95,3,High Risk,9,Immediate Action,899.4000000000001,New,Assign Customer Success Manager
+2737-YNGYW,1,0.8673034085824883,80.55,2,High Risk,13,Immediate Action,966.5999999999999,New,Assign Customer Success Manager
+5619-XZZKR,0,0.23654912353585233,19.95,4,Low Risk,76,Healthy,0.0,New,Upsell Opportunity
+6047-YHPVI,1,0.5662506390180483,69.7,5,Moderate Risk,43,Nurture,0.0,New,Increase Feature Adoption
+8375-DKEBR,1,0.928833776473724,69.6,1,High Risk,7,Immediate Action,835.1999999999999,New,Assign Customer Success Manager
+7729-XBTWX,0,0.005481594832225047,19.75,66,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4983-CLMLV,0,0.7169441253579656,102.7,52,High Risk,28,Monitor Closely,1232.4,Loyal,Launch Retention Campaign
+9227-LUNBG,1,0.8081736294554586,24.6,1,High Risk,19,Immediate Action,295.20000000000005,New,Assign Customer Success Manager
+2758-RNWXS,0,0.34260920019850305,89.2,35,Moderate Risk,66,Nurture,0.0,Established,Increase Feature Adoption
+7055-HNEOJ,0,0.6968320874791923,55.8,3,High Risk,30,Monitor Closely,669.5999999999999,New,Launch Retention Campaign
+7134-MJPDY,0,0.39179172560955483,102.85,66,Moderate Risk,61,Nurture,0.0,Loyal,Increase Feature Adoption
+4560-WQAQW,0,0.10148685866968647,68.7,59,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+8532-UEFWH,0,0.008220457641232729,25.75,52,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+8541-QVFKM,0,0.8496299696440817,73.5,8,High Risk,15,Immediate Action,882.0,New,Assign Customer Success Manager
+7129-ACFOG,0,0.7080370500612464,53.8,5,High Risk,29,Monitor Closely,645.5999999999999,New,Launch Retention Campaign
+2495-INZWQ,1,0.8919736404974818,44.55,4,High Risk,11,Immediate Action,534.5999999999999,New,Assign Customer Success Manager
+0263-FJTQO,0,0.01937492459887515,70.5,50,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+0181-RITDD,0,0.02605246049559108,108.15,62,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+8241-JUIQO,0,0.03670486775272737,19.45,61,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+0913-XWSCN,0,0.228936237662361,85.5,55,Low Risk,77,Healthy,0.0,Loyal,Upsell Opportunity
+2159-TURXX,0,0.39116952527345406,20.05,5,Moderate Risk,61,Nurture,0.0,New,Increase Feature Adoption
+6461-PPAXN,0,0.14587687608317762,54.95,35,Low Risk,85,Healthy,0.0,Established,Upsell Opportunity
+1452-KIOVK,0,0.3463035095881027,89.1,22,Moderate Risk,65,Nurture,0.0,Growing,Increase Feature Adoption
+1139-WUOAH,0,0.09329816046928287,53.35,57,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+3207-OYBWH,1,0.6608717135063252,95.25,57,High Risk,34,Monitor Closely,1143.0,Loyal,Launch Retention Campaign
+8347-GDTMP,0,0.021340069485385416,19.45,64,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+9909-DFRJA,0,0.3032848548473197,95.85,26,Moderate Risk,70,Nurture,0.0,Established,Increase Feature Adoption
+6383-ZTSIW,0,0.3682171406981967,99.1,39,Moderate Risk,63,Nurture,0.0,Established,Increase Feature Adoption
+5438-QMDDL,0,0.5639282928821062,59.8,19,Moderate Risk,44,Nurture,0.0,Growing,Increase Feature Adoption
+8914-RBTSB,1,0.7435954796770681,93.8,31,High Risk,26,Monitor Closely,1125.6,Established,Launch Retention Campaign
+6164-HXUGH,0,0.13560162579759547,19.85,6,Low Risk,86,Healthy,0.0,New,Upsell Opportunity
+6900-RBKER,0,0.2495368376569958,89.45,52,Low Risk,75,Healthy,0.0,Loyal,Upsell Opportunity
+1492-QGCLU,0,0.1222687656615586,85.7,53,Low Risk,88,Healthy,0.0,Loyal,Upsell Opportunity
+6664-FPDAC,1,0.4597513492754972,111.95,56,Moderate Risk,54,Nurture,0.0,Loyal,Increase Feature Adoption
+1088-AUUZZ,0,0.015540363202235384,75.85,56,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6651-AZVTJ,1,0.8278927626352346,99.8,49,High Risk,17,Immediate Action,1197.6,Loyal,Assign Customer Success Manager
+8219-VYBVI,0,0.00871973715376262,25.0,39,Low Risk,99,Healthy,0.0,Established,Upsell Opportunity
+0310-MVLET,1,0.7836541300936359,99.15,61,High Risk,22,Monitor Closely,1189.8000000000002,Loyal,Launch Retention Campaign
+7233-IOQNP,0,0.27213714412757906,34.0,43,Low Risk,73,Healthy,0.0,Established,Upsell Opportunity
+7311-MQJCH,0,0.27996291389491634,19.55,5,Low Risk,72,Healthy,0.0,New,Upsell Opportunity
+9256-JTBNZ,0,0.31498366801058786,20.3,11,Moderate Risk,69,Nurture,0.0,New,Increase Feature Adoption
+8713-IGZSO,0,0.4936224024025679,24.85,2,Moderate Risk,51,Nurture,0.0,New,Increase Feature Adoption
+6821-BUXUX,1,0.7585248343707702,96.65,13,High Risk,24,Monitor Closely,1159.8000000000002,Growing,Launch Retention Campaign
+9114-DPSIA,0,0.008790719921779678,81.0,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+4501-UYKBC,0,0.2141054809862117,69.1,46,Low Risk,79,Healthy,0.0,Established,Upsell Opportunity
+2798-NYLMZ,0,0.21686090185398632,108.55,71,Low Risk,78,Healthy,0.0,Loyal,Upsell Opportunity
+6711-VTNRE,1,0.659999726489126,87.55,36,High Risk,34,Monitor Closely,1050.6,Established,Launch Retention Campaign
+5966-EMAZU,0,0.4132540656110111,108.5,64,Moderate Risk,59,Nurture,0.0,Loyal,Increase Feature Adoption
+3627-FHKBK,1,0.8214105265343364,75.3,1,High Risk,18,Immediate Action,903.5999999999999,New,Assign Customer Success Manager
+7861-UVUFT,1,0.8134101041301725,84.3,15,High Risk,19,Immediate Action,1011.5999999999999,Growing,Assign Customer Success Manager
+9824-QCJPK,0,0.10240232517587593,20.0,36,Low Risk,90,Healthy,0.0,Established,Upsell Opportunity
+7816-VGHTO,0,0.06511867924744036,40.55,6,Low Risk,93,Healthy,0.0,New,Upsell Opportunity
+3794-NFNCH,0,0.4528497718756541,50.0,30,Moderate Risk,55,Nurture,0.0,Established,Increase Feature Adoption
+3877-JRJIP,1,0.9075051792051605,59.85,1,High Risk,9,Immediate Action,718.2,New,Assign Customer Success Manager
+5228-EXCET,1,0.8012672566096871,80.85,13,High Risk,20,Immediate Action,970.1999999999999,Growing,Assign Customer Success Manager
+6248-BSHKG,0,0.010508371592431752,20.4,61,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+8915-NNTRC,0,0.044127815876858587,107.7,72,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+3470-OBUET,0,0.00968944937739652,74.0,67,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+3229-USWAR,0,0.18343955939583273,79.95,34,Low Risk,82,Healthy,0.0,Established,Upsell Opportunity
+1927-QEWMY,0,0.016360877717377497,20.5,72,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+6374-AFWOX,0,0.03577887361583824,65.65,46,Low Risk,96,Healthy,0.0,Established,Upsell Opportunity
+7912-SYRQT,1,0.8019840817260951,75.1,7,High Risk,20,Immediate Action,901.1999999999999,New,Assign Customer Success Manager
+2070-FNEXE,1,0.2646648671598574,76.45,7,Low Risk,74,Healthy,0.0,New,Upsell Opportunity
+5803-NQJZO,0,0.04716822235525888,67.8,72,Low Risk,95,Healthy,0.0,Loyal,Upsell Opportunity
+5651-YLPRD,0,0.3536522246923362,86.1,32,Moderate Risk,65,Nurture,0.0,Established,Increase Feature Adoption
+1271-UODNO,0,0.08803123596753432,53.85,39,Low Risk,91,Healthy,0.0,Established,Upsell Opportunity
+5014-WUQMG,0,0.1262020347480527,96.1,47,Low Risk,87,Healthy,0.0,Established,Upsell Opportunity
+5889-JTMUL,1,0.739846445415512,95.05,50,High Risk,26,Monitor Closely,1140.6,Loyal,Launch Retention Campaign
+0788-DXBFY,0,0.10793392355522967,19.55,58,Low Risk,89,Healthy,0.0,Loyal,Upsell Opportunity
+2669-QVCRG,0,0.5202061273675794,81.3,41,Moderate Risk,48,Nurture,0.0,Established,Increase Feature Adoption
+6630-UJZMY,0,0.9510898865921219,83.25,4,High Risk,5,Immediate Action,999.0,New,Assign Customer Success Manager
+5061-PBXFW,0,0.051836532400731265,61.4,32,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+2700-LUEVA,0,0.45961638123765475,20.75,1,Moderate Risk,54,Nurture,0.0,New,Increase Feature Adoption
+3865-ZFZIB,0,0.05559391166988985,19.65,19,Low Risk,94,Healthy,0.0,Growing,Upsell Opportunity
+0471-ARVMX,0,0.5743585987489922,104.85,62,Moderate Risk,43,Nurture,0.0,Loyal,Increase Feature Adoption
+8985-OOPOS,0,0.6369318665709237,74.1,1,High Risk,36,Monitor Closely,889.1999999999999,New,Launch Retention Campaign
+0719-SYFRB,1,0.5342407137180615,61.65,12,Moderate Risk,47,Nurture,0.0,New,Increase Feature Adoption
+0447-BEMNG,1,0.4510097782827036,45.3,48,Moderate Risk,55,Nurture,0.0,Established,Increase Feature Adoption
+5630-AHZIL,0,0.262466977264228,64.5,3,Low Risk,74,Healthy,0.0,New,Upsell Opportunity
+2190-BCXEC,0,0.6165192509342402,78.85,40,High Risk,38,Monitor Closely,946.1999999999999,Established,Launch Retention Campaign
+1559-DTODC,0,0.5728221030144515,25.15,19,Moderate Risk,43,Nurture,0.0,Growing,Increase Feature Adoption
+3244-DCJWY,1,0.9256056802926725,70.25,1,High Risk,7,Immediate Action,843.0,New,Assign Customer Success Manager
+3967-VQOGC,0,0.007603083050169514,24.9,67,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+0265-PSUAE,0,0.3255408884909367,100.7,16,Moderate Risk,67,Nurture,0.0,Growing,Increase Feature Adoption
+1622-HSHSF,0,0.5423695559465253,19.55,1,Moderate Risk,46,Nurture,0.0,New,Increase Feature Adoption
+9867-XOBQA,0,0.020104647675920063,53.15,21,Low Risk,98,Healthy,0.0,Growing,Upsell Opportunity
+6773-LQTVT,0,0.18972153065047895,35.65,29,Low Risk,81,Healthy,0.0,Established,Upsell Opportunity
+4332-MUOEZ,0,0.36996269591730413,94.3,20,Moderate Risk,63,Nurture,0.0,Growing,Increase Feature Adoption
+0023-XUOPT,1,0.8235540759382589,94.1,13,High Risk,18,Immediate Action,1129.1999999999998,Growing,Assign Customer Success Manager
+6543-CPZMK,1,0.815557174038287,29.95,9,High Risk,18,Immediate Action,359.4,New,Assign Customer Success Manager
+6418-HNFED,0,0.09230561106308562,83.25,51,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+1036-GUDCL,0,0.07619878873452907,79.05,60,Low Risk,92,Healthy,0.0,Loyal,Upsell Opportunity
+4818-QIUFN,1,0.7296215070307381,79.15,20,High Risk,27,Monitor Closely,949.8000000000001,Growing,Launch Retention Campaign
+0778-NELLA,1,0.7692973515945075,34.7,9,High Risk,23,Monitor Closely,416.40000000000003,New,Launch Retention Campaign
+7495-OOKFY,1,0.5142345108550603,80.65,8,Moderate Risk,49,Nurture,0.0,New,Increase Feature Adoption
+4737-HOBAX,0,0.10045938347332148,79.8,63,Low Risk,90,Healthy,0.0,Loyal,Upsell Opportunity
+7919-ZODZZ,0,0.1499466424305363,65.9,10,Low Risk,85,Healthy,0.0,New,Upsell Opportunity
+2988-PLAHS,0,0.6901636291568907,69.95,3,High Risk,31,Monitor Closely,839.4000000000001,New,Launch Retention Campaign
+9067-SQTNS,0,0.016326606216910438,20.6,44,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+6483-OATDN,0,0.21127426969781116,51.3,8,Low Risk,79,Healthy,0.0,New,Upsell Opportunity
+5469-CTCWN,1,0.5179731021173494,106.0,61,Moderate Risk,48,Nurture,0.0,Loyal,Increase Feature Adoption
+3524-WQDSG,0,0.4230670770050784,99.3,43,Moderate Risk,58,Nurture,0.0,Established,Increase Feature Adoption
+6968-URWQU,0,0.25362008027638855,56.35,43,Low Risk,75,Healthy,0.0,Established,Upsell Opportunity
+8601-QACRS,1,0.703771770394265,50.6,5,High Risk,30,Monitor Closely,607.2,New,Launch Retention Campaign
+8690-UPCZI,0,0.05467670406226594,69.05,29,Low Risk,95,Healthy,0.0,Established,Upsell Opportunity
+5331-RGMTT,0,0.7678184830542283,99.05,54,High Risk,23,Monitor Closely,1188.6,Loyal,Launch Retention Campaign
+1357-BIJKI,0,0.6671111990564963,98.25,50,High Risk,33,Monitor Closely,1179.0,Loyal,Launch Retention Campaign
+2088-IEBAU,0,0.09186051960440243,88.15,68,Low Risk,91,Healthy,0.0,Loyal,Upsell Opportunity
+0679-IDSTG,1,0.9470444401862542,69.25,1,High Risk,5,Immediate Action,831.0,New,Assign Customer Success Manager
+6519-ZHPXP,0,0.03244130509556319,108.3,72,Low Risk,97,Healthy,0.0,Loyal,Upsell Opportunity
+2101-RANCD,0,0.614732438765933,73.1,55,High Risk,39,Monitor Closely,877.1999999999999,Loyal,Launch Retention Campaign
+4029-HPFVY,0,0.8173117624096202,70.3,3,High Risk,18,Immediate Action,843.5999999999999,New,Assign Customer Success Manager
+1015-OWJKI,0,0.4720242094131096,19.05,1,Moderate Risk,53,Nurture,0.0,New,Increase Feature Adoption
+8314-HTWVE,0,0.02710049200439602,19.85,7,Low Risk,97,Healthy,0.0,New,Upsell Opportunity
+5357-TZHPP,1,0.8662052052614935,84.4,9,High Risk,13,Immediate Action,1012.8000000000001,New,Assign Customer Success Manager
+8727-XDPUD,0,0.12659069385267754,35.8,37,Low Risk,87,Healthy,0.0,Established,Upsell Opportunity
+9073-ZZIAY,0,0.0714558896698268,86.1,62,Low Risk,93,Healthy,0.0,Loyal,Upsell Opportunity
+5181-OABFK,0,0.010391561455385815,61.3,56,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity
+3812-LRZIR,0,0.02153554312200963,24.5,27,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+5204-HMGYF,0,0.035071121751350194,87.2,49,Low Risk,96,Healthy,0.0,Loyal,Upsell Opportunity
+9950-MTGYX,0,0.016761155660243086,20.3,28,Low Risk,98,Healthy,0.0,Established,Upsell Opportunity
+3675-EQOZA,0,0.3917281038887712,20.65,5,Moderate Risk,61,Nurture,0.0,New,Increase Feature Adoption
+3646-ITDGM,0,0.01979162216631323,19.7,56,Low Risk,98,Healthy,0.0,Loyal,Upsell Opportunity
+3913-FCUUW,0,0.007896963291851076,70.45,72,Low Risk,99,Healthy,0.0,Loyal,Upsell Opportunity

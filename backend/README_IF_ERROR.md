@@ -1,0 +1,1 @@
+If you encounter missing package issues or dashboard functionality issues, open powershell in this folder and run pip install -r requirements.txt and then follow instructions from step 1 in README.md

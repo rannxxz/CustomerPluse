@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CustomerPulse</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/variables.css">
+    <link rel="stylesheet" href="./css/layout.css">
+    <link rel="stylesheet" href="./css/dashboard.css">
+    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+</head>
+
+<body>
+    <div class="app">
+
+        <!-- ========================= -->
+        <!-- SIDEBAR -->
+        <!-- ========================= -->
+
+        <aside class="sidebar">
+
+            <div class="sidebar-top">
+
+                <div class="sidebar-logo">
+                    <h2>CustomerPulse</h2>
+                    <p>Customer Intelligence</p>
+                </div>
+
+                <nav class="sidebar-nav">
+
+                    <a class="nav-item active" data-page="overview-page">
+                        <i data-lucide="layout-dashboard"></i>
+                        <span>Overview</span>
+                    </a>
+
+                    <a class="nav-item" data-page="customers-page">
+                        <i data-lucide="users"></i>
+                        <span>Customers</span>
+                    </a>
+
+                    <a class="nav-item" data-page="analytics-page">
+                        <i data-lucide="bar-chart-4"></i>
+                        <span>Analytics</span>
+                    </a>
+
+                    <a class="nav-item" data-page="risk-page">
+                        <i data-lucide="shield-alert"></i>
+                        <span>Risk Monitoring</span>
+                    </a>
+
+                    <a class="nav-item" data-page="reports-page">
+                        <i data-lucide="file-text"></i>
+                        <span>Reports</span>
+                    </a>
+
+                </nav>
+
+                <div class="sidebar-status">
+
+                    <h4>System Status</h4>
+
+                    <div class="status-item">
+                        <span class="status-dot green"></span>
+                        API Online
+                    </div>
+
+                    <div class="status-item">
+                        <span class="status-dot green"></span>
+                        Model Healthy
+                    </div>
+
+                    <div class="status-item sync-item">
+                        <i data-lucide="refresh-cw"></i>
+                        <span>Last Sync: 2 mins ago</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="sidebar-footer">
+
+                <div class="profile-avatar">
+                    R
+                </div>
+
+                <div class="profile-info">
+                    <h4>Ranjitha</h4>
+                    <p>Data Analyst</p>
+                </div>
+
+            </div>
+
+        </aside>
+
+        <!-- ========================= -->
+        <!-- MAIN -->
+        <!-- ========================= -->
+
+        <main class="main">
+
+            <header class="header">
+
+                <h1>Dashboard</h1>
+
+                <div class="header-actions">
+
+                    <select id="date-filter">
+                        <option value="7" selected>
+                            Last 7 Days
+                        </option>
+
+                        <option value="30">
+                            Last 30 Days
+                        </option>
+
+                        <option value="90">
+                            Last 90 Days
+                        </option>
+                    </select>
+
+                    <select id="risk-filter">
+
+                        <option value="">
+                            All Customers
+                        </option>
+
+                        <option value="High Risk">
+                            High Risk
+                        </option>
+
+                        <option value="Moderate Risk">
+                            Moderate Risk
+                        </option>
+
+                        <option value="Low Risk">
+                            Low Risk
+                        </option>
+
+                    </select>
+
+                    <button id="export-btn" class="btn-primary">
+                        Export
+                    </button>
+
+                    <!-- <button id="theme-toggle" class="notification-btn" > <i data-lucide="moon"></i> </button> -->
+
+                </div>
+
+            </header>
+
+            <section id="overview-page" class="page">
+                <section class="content">
+                    <div class="grid"> <!-- KPI CARDS -->
+                        <div class="card kpi-card span-3" id="kpi-total-customers">
+                            <h3>Total Customers</h3>
+                            <div class="kpi-value">--</div>
+                            <p class="chart-caption">Customers in dataset</p>
+                        </div>
+
+                        <div class="card kpi-card span-3" id="kpi-high-risk">
+                            <h3>High Risk Customers</h3>
+                            <div class="kpi-value">--</div>
+                            <p class="chart-caption">Customers likely to churn</p>
+                        </div>
+
+                        <div class="card kpi-card span-3" id="kpi-retention">
+                            <h3>Revenue At Risk</h3>
+                            <div class="kpi-value">--</div>
+                            <p class="chart-caption">Critical revenue at risk</p>
+                        </div>
+
+                        <div class="card kpi-card span-3" id="kpi-health">
+                            <h3>Average Health Score</h3>
+                            <div class="kpi-value">--</div>
+                            <p class="chart-caption">Portfolio health score</p>
+                        </div> <!-- HERO ROW -->
+                        <div class="card span-8 chart-main">
+                            <h3>Customer Health Trend</h3>
+                            <p class="chart-caption">
+                                Filtered by selected time range
+                            </p>
+                            <div id="health-distribution-chart" class="chart-container">
+                            </div>
+                        </div>
+
+                        <div class="card span-4 chart-side">
+                            <h3>Risk Distribution</h3>
+                            <div id="risk-distribution-chart" class="chart-container">
+                            </div>
+                        </div>
+
+                        <div class="card span-6 secondary-card">
+                            <h3>Customer Segments</h3>
+                            <div id="customer-segments-chart" class="chart-container">
+                            </div>
+                        </div>
+
+                        <div class="card span-6 secondary-card">
+                            <h3>Feature Importance</h3>
+                            <div id="feature-importance-chart" class="chart-container">
+                            </div>
+                        </div> <!-- INSIGHTS -->
+                        <div class="card span-12 insight-card">
+
+                            <h3>Insights</h3>
+
+                            <ul id="ai-insights" class="insights-list">
+
+                                <li>Loading insights...</li>
+
+                            </ul>
+
+                        </div>
+                        <!-- <div class="card span-6 insight-card" id="alerts-card">
+                        <h3>Priority Alerts</h3>
+                        <div id="alerts-container">
+                            <p> No alerts available. </p>
+                        </div>
+                    </div> TABLE -->
+                        <div class="card span-12 table-card">
+
+                            <div class="table-header">
+
+                                <h3>Customer Directory</h3>
+
+                                <div class="table-actions">
+
+                                    <select id="risk-filter">
+                                        <option value="">All Risks</option>
+                                        <option value="Low Risk">Low Risk</option>
+                                        <option value="Moderate Risk">Moderate Risk</option>
+                                        <option value="High Risk">High Risk</option>
+                                    </select>
+
+                                    <input id="customer-search" type="text" placeholder="Search customer..." />
+
+                                </div>
+
+                            </div>
+
+                            <div id="customer-modal" class="modal">
+
+                                <div class="modal-content">
+
+                                    <button id="close-modal" class="modal-close">
+                                        ×
+                                    </button>
+
+                                    <div id="modal-body"></div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="table-wrapper">
+
+                                <table id="customer-table" class="customer-table">
+
+                                    <thead>
+                                        <tr>
+                                            <th>Customer ID</th>
+                                            <th>Risk</th>
+                                            <th>Priority</th>
+                                            <th>Lifecycle</th>
+                                            <th>Churn Probability</th>
+                                        </tr>
+                                    </thead>
+
+                                    <tbody id="customer-table-body">
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                            <div class="pagination">
+
+                                <button id="prev-page">
+                                    Previous
+                                </button>
+
+                                <span id="page-indicator">
+                                    Page 1
+                                </span>
+
+                                <button id="next-page">
+                                    Next
+                                </button>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+            </section>
+            <section id="customers-page" class="page" style="display:none;">
+
+                <section class="content">
+
+                    <div class="card">
+                        <h2>Customers</h2>
+                        <p>Coming Soon</p>
+                    </div>
+
+                </section>
+
+            </section>
+
+            <section id="analytics-page" class="page" style="display:none;">
+
+                <section class="content">
+
+                    <div class="card">
+                        <h2>Analytics</h2>
+                        <p>Coming Soon</p>
+                    </div>
+
+                </section>
+
+            </section>
+
+            <section id="risk-page" class="page" style="display:none;">
+
+                <section class="content">
+
+                    <div class="card">
+                        <h2>Risk Monitoring</h2>
+                        <p>Coming Soon</p>
+                    </div>
+
+                </section>
+
+            </section>
+
+            <section id="reports-page" class="page" style="display:none;">
+
+                <section class="content">
+
+                    <div class="card">
+                        <h2>Reports</h2>
+                        <p>Coming Soon</p>
+                    </div>
+
+                </section>
+
+            </section>
+
+        </main>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script type="module" src="./js/app.js"></script>
+</body>
+
+</html>

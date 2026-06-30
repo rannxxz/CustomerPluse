@@ -1,0 +1,4 @@
+RiskSegment,Customers,AvgHealth,RevenueAtRisk
+Low Risk,635,89.59055118110236,0.0
+Moderate Risk,306,55.22875816993464,0.0
+High Risk,468,21.177350427350426,432490.8

@@ -1,0 +1,312 @@
+.card {
+    background: var(--surface);
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    padding: 24px;
+    min-height: 220px;
+}
+
+.kpi-card {
+    min-height: 130px;
+}
+
+.chart-main {
+    min-height: 360px;
+}
+
+.chart-side {
+    min-height: 360px;
+}
+
+.secondary-card {
+    min-height: 260px;
+}
+
+.insight-card {
+    min-height: 220px;
+}
+
+.span-3 {
+    grid-column: span 3;
+}
+
+.span-4 {
+    grid-column: span 4;
+}
+
+.span-6 {
+    grid-column: span 6;
+}
+
+.span-8 {
+    grid-column: span 8;
+}
+
+.span-12 {
+    grid-column: span 12;
+}
+
+.sidebar-status h4 {
+    margin-bottom: 16px;
+}
+
+.status-item {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-secondary);
+}
+
+.sync-item svg {
+    width: 10px;
+    height: 10px;
+    opacity: 0.75;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.green {
+    background: #22c55e;
+}
+
+.header-actions {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.header-actions select {
+    padding: 10px 16px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: white;
+}
+
+.btn-primary {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 12px;
+    background: var(--primary);
+    color: white;
+    cursor: pointer;
+}
+
+.notification-btn {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    background: white;
+}
+
+.chart-main,
+.chart-side {
+    min-height: 360px;
+}
+
+.secondary-card {
+    min-height: 280px;
+}
+
+.insight-card {
+    min-height: 240px;
+}
+
+.table-card {
+    min-height: 500px;
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.table-header input {
+    width: 320px;
+    padding: 12px 16px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+}
+
+.table-placeholder {
+    height: 350px;
+    background: #f8fafc;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-secondary);
+}
+
+.table-controls {
+    display: flex;
+    gap: 16px;
+}
+
+.pagination {
+    margin-top: 24px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.pagination button {
+    padding: 10px 18px;
+    border: 1px solid var(--border);
+    background: white;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.pagination button:hover {
+    background: #f8fafc;
+}
+
+#page-indicator {
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.chart-container {
+    width: 100%;
+    height: 320px;
+}
+
+.chart-main .chart-container {
+    height: 360px;
+}
+
+.chart-side .chart-container {
+    height: 360px;
+}
+
+.secondary-card .chart-container {
+    height: 260px;
+}
+
+.insights-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.insights-list li {
+    padding: 16px;
+    background: #f8fafc;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    line-height: 1.6;
+}
+
+.kpi-value {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+    margin-top: 12px;
+}
+
+.kpi-card p {
+    color: var(--text-secondary);
+    margin-top: 6px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    font-weight: 600;
+    padding: 16px;
+    border-bottom: 1px solid var(--border);
+}
+
+td {
+    padding: 18px 16px;
+    border-bottom: 1px solid #f3f4f6;
+}
+
+tbody tr:hover {
+    background: #f8fafc;
+}
+
+thead th {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 2;
+}
+
+.table-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.table-actions select,
+.table-actions input {
+    height: 42px;
+    padding: 0 16px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: white;
+}
+
+.modal {
+    position: fixed;
+    inset: 0;
+
+    background:
+        rgba(0,
+            0,
+            0,
+            0.35);
+
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 999;
+}
+
+.modal.active {
+    display: flex;
+}
+
+.modal-content {
+    width: 600px;
+    background: white;
+    border-radius: 20px;
+    padding: 32px;
+    position: relative;
+}
+
+.modal-close {
+    position: absolute;
+    right: 24px;
+    top: 24px;
+    border: none;
+    background: none;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.chart-caption {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+}
